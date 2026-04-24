@@ -1,0 +1,297 @@
+{
+  "id": 33,
+  "title": "Hotel Check-in",
+  "title_zh": "酒店入住",
+  "title_vi": "Nhan phong khach san",
+  "difficulty": "A2",
+  "category": "travel",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I have a reservation under my name.",
+      "translation_zh": "我用我的名字预订了房间。",
+      "translation_vi": "Toi co dat phong duoi ten toi.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "reservation", "ipa": "/ˌrɛzərˈveɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "under", "ipa": "/ˈʌndər/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "my", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "name", "ipa": "/neɪm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [2, 3], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [4, 5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 2,
+      "text": "What time is check-in?",
+      "translation_zh": "什么时候可以办理入住？",
+      "translation_vi": "May gio lam thu tuc nhan phong?",
+      "words": [
+        {"word": "What", "ipa": "/wɑːt/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "time", "ipa": "/taɪm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "check-in", "ipa": "/ˈtʃɛkɪn/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "question phrase", "label_zh": "疑问短语", "label_vi": "cum tu hoi", "word_indices": [0, 1], "color": "#3F51B5"},
+        {"group": 1, "label_en": "verb + subject", "label_zh": "动词+主语", "label_vi": "dong tu + chu ngu", "word_indices": [2, 3], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Could I have a room with a view?",
+      "translation_zh": "我可以要一间有风景的房间吗？",
+      "translation_vi": "Toi co the co phong co canh dep khong?",
+      "words": [
+        {"word": "Could", "ipa": "/kʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "room", "ipa": "/ruːm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "with", "ipa": "/wɪð/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "view", "ipa": "/vjuː/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "modal + subject", "label_zh": "情态动词+主语", "label_vi": "dong tu tinh thai + chu ngu", "word_indices": [0, 1], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate + object", "label_zh": "谓语+宾语", "label_vi": "vi ngu + tan ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6, 7], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 4,
+      "text": "Is breakfast included in the price?",
+      "translation_zh": "价格包含早餐吗？",
+      "translation_vi": "Gia phong co bao gom bua sang khong?",
+      "words": [
+        {"word": "Is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "breakfast", "ipa": "/ˈbrɛkfəst/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "included", "ipa": "/ɪnˈkluːdɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "price", "ipa": "/praɪs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "auxiliary + subject", "label_zh": "助动词+主语", "label_vi": "tro dong tu + chu ngu", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [3, 4, 5], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 5,
+      "text": "Can I have an extra pillow?",
+      "translation_zh": "我可以多要一个枕头吗？",
+      "translation_vi": "Toi co the xin them mot cai goi khong?",
+      "words": [
+        {"word": "Can", "ipa": "/kæn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "an", "ipa": "/ən/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "extra", "ipa": "/ˈɛkstrə/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "pillow", "ipa": "/ˈpɪloʊ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "modal + subject", "label_zh": "情态动词+主语", "label_vi": "dong tu tinh thai + chu ngu", "word_indices": [0, 1], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4, 5], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 6,
+      "text": "The wifi password is on the card.",
+      "translation_zh": "无线网密码在卡片上。",
+      "translation_vi": "Mat khau wifi o tren the.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "wifi", "ipa": "/ˈwaɪfaɪ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "password", "ipa": "/ˈpæswɜːrd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "on", "ipa": "/ɑːn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "card", "ipa": "/kɑːrd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate + adverbial", "label_zh": "谓语+状语", "label_vi": "vi ngu + trang ngu", "word_indices": [3, 4, 5, 6], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 7,
+      "text": "Where is the elevator?",
+      "translation_zh": "电梯在哪里？",
+      "translation_vi": "Thang may o dau?",
+      "words": [
+        {"word": "Where", "ipa": "/wɛr/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "elevator", "ipa": "/ˈɛləveɪtər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "question + verb", "label_zh": "疑问词+动词", "label_vi": "tu hoi + dong tu", "word_indices": [0, 1], "color": "#4CAF50"},
+        {"group": 1, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [2, 3], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 8,
+      "text": "I would like to check out tomorrow.",
+      "translation_zh": "我想明天退房。",
+      "translation_vi": "Toi muon tra phong vao ngay mai.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "would", "ipa": "/wʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "like", "ipa": "/laɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 2, "group_color": "#00BCD4"},
+        {"word": "check", "ipa": "/tʃɛk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "out", "ipa": "/aʊt/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "particle", "role_zh": "小品词", "role_vi": "tieu tu", "group": 2, "group_color": "#00BCD4"},
+        {"word": "tomorrow", "ipa": "/təˈmɑːroʊ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "modal + verb", "label_zh": "情态动词+动词", "label_vi": "dong tu tinh thai + dong tu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "infinitive phrase", "label_zh": "不定式短语", "label_vi": "cum dong tu nguyen mau", "word_indices": [3, 4, 5], "color": "#00BCD4"},
+        {"group": 3, "label_en": "adverbial", "label_zh": "状语", "label_vi": "trang ngu", "word_indices": [6], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 9,
+      "text": "The air conditioning is not working.",
+      "translation_zh": "空调坏了。",
+      "translation_vi": "May lanh khong hoat dong.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "air", "ipa": "/ɛr/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "conditioning", "ipa": "/kənˈdɪʃənɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "not", "ipa": "/nɑːt/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "working", "ipa": "/ˈwɜːrkɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [3, 4, 5], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 10,
+      "text": "Do you have a double room available?",
+      "translation_zh": "你们有双人间吗？",
+      "translation_vi": "Co phong doi trong khong?",
+      "words": [
+        {"word": "Do", "ipa": "/duː/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "double", "ipa": "/ˈdʌbəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "room", "ipa": "/ruːm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "available", "ipa": "/əˈveɪləbəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "auxiliary + subject", "label_zh": "助动词+主语", "label_vi": "tro dong tu + chu ngu", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4, 5, 6], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 11,
+      "text": "How much is one night?",
+      "translation_zh": "一晚多少钱？",
+      "translation_vi": "Mot dem bao nhieu tien?",
+      "words": [
+        {"word": "How", "ipa": "/haʊ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "much", "ipa": "/mʌtʃ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "one", "ipa": "/wʌn/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "night", "ipa": "/naɪt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "question phrase", "label_zh": "疑问短语", "label_vi": "cum tu hoi", "word_indices": [0, 1], "color": "#4CAF50"},
+        {"group": 1, "label_en": "verb + subject", "label_zh": "动词+主语", "label_vi": "dong tu + chu ngu", "word_indices": [2, 3, 4], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 12,
+      "text": "I need a wake-up call at seven.",
+      "translation_zh": "我需要七点的叫醒服务。",
+      "translation_vi": "Toi can goi bao thuc luc bay gio.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "need", "ipa": "/niːd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "wake-up", "ipa": "/ˈweɪkʌp/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "call", "ipa": "/kɔːl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "at", "ipa": "/æt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "seven", "ipa": "/ˈsɛvən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [2, 3, 4], "color": "#2196F3"},
+        {"group": 3, "label_en": "adverbial", "label_zh": "状语", "label_vi": "trang ngu", "word_indices": [5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 13,
+      "text": "Can you call me a taxi please?",
+      "translation_zh": "请帮我叫一辆出租车好吗？",
+      "translation_vi": "Ban co the goi cho toi mot chiec taxi khong?",
+      "words": [
+        {"word": "Can", "ipa": "/kæn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "call", "ipa": "/kɔːl/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "me", "ipa": "/miː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "taxi", "ipa": "/ˈtæksi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "please", "ipa": "/pliːz/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "politeness", "role_zh": "礼貌用语", "role_vi": "tu lich su", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "modal + subject", "label_zh": "情态动词+主语", "label_vi": "dong tu tinh thai + chu ngu", "word_indices": [0, 1], "color": "#9C27B0"},
+        {"group": 1, "label_en": "verb + indirect object", "label_zh": "动词+间接宾语", "label_vi": "dong tu + tan ngu gian tiep", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "direct object", "label_zh": "直接宾语", "label_vi": "tan ngu truc tiep", "word_indices": [4, 5], "color": "#2196F3"},
+        {"group": 3, "label_en": "politeness marker", "label_zh": "礼貌用语", "label_vi": "tu lich su", "word_indices": [6], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 14,
+      "text": "My room key does not work.",
+      "translation_zh": "我的房卡不能用了。",
+      "translation_vi": "The phong cua toi khong hoat dong.",
+      "words": [
+        {"word": "My", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "room", "ipa": "/ruːm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "key", "ipa": "/kiː/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "does", "ipa": "/dʌz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "not", "ipa": "/nɑːt/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "work", "ipa": "/wɜːrk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [3, 4, 5], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 15,
+      "text": "Could you keep my bags until noon?",
+      "translation_zh": "你能帮我保管行李到中午吗？",
+      "translation_vi": "Ban co the giu hanh ly cua toi den trua khong?",
+      "words": [
+        {"word": "Could", "ipa": "/kʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "keep", "ipa": "/kiːp/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "my", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "bags", "ipa": "/bæɡz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "until", "ipa": "/ʌnˈtɪl/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "noon", "ipa": "/nuːn/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "modal + subject", "label_zh": "情态动词+主语", "label_vi": "dong tu tinh thai + chu ngu", "word_indices": [0, 1], "color": "#9C27B0"},
+        {"group": 1, "label_en": "verb + object", "label_zh": "动词+宾语", "label_vi": "dong tu + tan ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "adverbial", "label_zh": "状语", "label_vi": "trang ngu", "word_indices": [5, 6], "color": "#607D8B"}
+      ]
+    }
+  ]
+}

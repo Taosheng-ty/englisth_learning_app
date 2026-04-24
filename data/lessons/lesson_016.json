@@ -1,0 +1,288 @@
+{
+  "id": 16,
+  "title": "Pets and Animals",
+  "title_zh": "宠物和动物",
+  "title_vi": "Thu cung va dong vat",
+  "difficulty": "A1",
+  "category": "daily_conversation",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "I have a pet dog.",
+      "translation_zh": "我有一只宠物狗。",
+      "translation_vi": "Toi co mot con cho cung.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "pet", "ipa": "/pɛt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "dog", "ipa": "/dɔːɡ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [2, 3, 4], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 2,
+      "text": "My cat likes to sleep.",
+      "translation_zh": "我的猫喜欢睡觉。",
+      "translation_vi": "Con meo cua toi thich ngu.",
+      "words": [
+        {"word": "My", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "cat", "ipa": "/kæt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "likes", "ipa": "/laɪks/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 2, "group_color": "#00BCD4"},
+        {"word": "sleep", "ipa": "/sliːp/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#F44336"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "infinitive phrase", "label_zh": "不定式短语", "label_vi": "cum dong tu nguyen mau", "word_indices": [3, 4], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 3,
+      "text": "The bird is singing loudly.",
+      "translation_zh": "那只鸟在大声唱歌。",
+      "translation_vi": "Con chim dang hot to.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "bird", "ipa": "/bɜːrd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "singing", "ipa": "/ˈsɪŋɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "loudly", "ipa": "/ˈlaʊdli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate phrase", "label_zh": "谓语短语", "label_vi": "cum vi ngu", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "adverbial", "label_zh": "状语", "label_vi": "trang ngu", "word_indices": [4], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 4,
+      "text": "Fish live in the water.",
+      "translation_zh": "鱼生活在水里。",
+      "translation_vi": "Ca song trong nuoc.",
+      "words": [
+        {"word": "Fish", "ipa": "/fɪʃ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "live", "ipa": "/lɪv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "water", "ipa": "/ˈwɔːtər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "adverbial phrase", "label_zh": "状语短语", "label_vi": "cum trang ngu", "word_indices": [2, 3, 4], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 5,
+      "text": "The rabbit has long ears.",
+      "translation_zh": "兔子有长耳朵。",
+      "translation_vi": "Con tho co doi tai dai.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "rabbit", "ipa": "/ˈræbɪt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "has", "ipa": "/hæz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "long", "ipa": "/lɔːŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "ears", "ipa": "/ɪrz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [3, 4], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 6,
+      "text": "Dogs are very friendly animals.",
+      "translation_zh": "狗是很友好的动物。",
+      "translation_vi": "Cho la dong vat rat than thien.",
+      "words": [
+        {"word": "Dogs", "ipa": "/dɔːɡz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "are", "ipa": "/ɑːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "very", "ipa": "/ˈvɛri/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "friendly", "ipa": "/ˈfrɛndli/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "animals", "ipa": "/ˈænɪməlz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "complement phrase", "label_zh": "表语短语", "label_vi": "cum bo ngu", "word_indices": [2, 3, 4], "color": "#FF9800"}
+      ]
+    },
+    {
+      "index": 7,
+      "text": "I walk my dog every morning.",
+      "translation_zh": "我每天早上遛狗。",
+      "translation_vi": "Toi dan cho di dao moi sang.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "walk", "ipa": "/wɔːk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "my", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "dog", "ipa": "/dɔːɡ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "every", "ipa": "/ˈɛvri/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "morning", "ipa": "/ˈmɔːrnɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [2, 3], "color": "#2196F3"},
+        {"group": 3, "label_en": "adverbial phrase", "label_zh": "状语短语", "label_vi": "cum trang ngu", "word_indices": [4, 5], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 8,
+      "text": "The horse runs very fast.",
+      "translation_zh": "那匹马跑得很快。",
+      "translation_vi": "Con ngua chay rat nhanh.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "horse", "ipa": "/hɔːrs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "runs", "ipa": "/rʌnz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "very", "ipa": "/ˈvɛri/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "fast", "ipa": "/fæst/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "adverbial phrase", "label_zh": "状语短语", "label_vi": "cum trang ngu", "word_indices": [3, 4], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 9,
+      "text": "Do you like cats or dogs?",
+      "translation_zh": "你喜欢猫还是狗？",
+      "translation_vi": "Ban thich meo hay cho?",
+      "words": [
+        {"word": "Do", "ipa": "/duː/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "like", "ipa": "/laɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "cats", "ipa": "/kæts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "or", "ipa": "/ɔːr/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 2, "group_color": "#E91E63"},
+        {"word": "dogs", "ipa": "/dɔːɡz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "auxiliary + subject", "label_zh": "助动词+主语", "label_vi": "tro dong tu + chu ngu", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [3, 4, 5], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 10,
+      "text": "The elephant is very big.",
+      "translation_zh": "大象非常大。",
+      "translation_vi": "Con voi rat lon.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "elephant", "ipa": "/ˈɛlɪfənt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "very", "ipa": "/ˈvɛri/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "big", "ipa": "/bɪɡ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate phrase", "label_zh": "谓语短语", "label_vi": "cum vi ngu", "word_indices": [2, 3, 4], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 11,
+      "text": "My dog loves to play outside.",
+      "translation_zh": "我的狗喜欢在外面玩。",
+      "translation_vi": "Con cho cua toi thich choi o ngoai.",
+      "words": [
+        {"word": "My", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "dog", "ipa": "/dɔːɡ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "loves", "ipa": "/lʌvz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 2, "group_color": "#00BCD4"},
+        {"word": "play", "ipa": "/pleɪ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "outside", "ipa": "/aʊtˈsaɪd/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "infinitive phrase", "label_zh": "不定式短语", "label_vi": "cum dong tu nguyen mau", "word_indices": [3, 4, 5], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 12,
+      "text": "We saw a monkey at the zoo.",
+      "translation_zh": "我们在动物园看到了一只猴子。",
+      "translation_vi": "Chung toi da thay mot con khi tai so thu.",
+      "words": [
+        {"word": "We", "ipa": "/wiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "saw", "ipa": "/sɔː/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "monkey", "ipa": "/ˈmʌŋki/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "at", "ipa": "/æt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "zoo", "ipa": "/zuː/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [2, 3], "color": "#2196F3"},
+        {"group": 3, "label_en": "adverbial phrase", "label_zh": "状语短语", "label_vi": "cum trang ngu", "word_indices": [4, 5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 13,
+      "text": "The turtle moves very slowly.",
+      "translation_zh": "乌龟走得很慢。",
+      "translation_vi": "Con rua di rat cham.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "turtle", "ipa": "/ˈtɜːrtəl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "moves", "ipa": "/muːvz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "very", "ipa": "/ˈvɛri/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "slowly", "ipa": "/ˈsloʊli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "adverbial phrase", "label_zh": "状语短语", "label_vi": "cum trang ngu", "word_indices": [3, 4], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 14,
+      "text": "I feed my fish every day.",
+      "translation_zh": "我每天喂我的鱼。",
+      "translation_vi": "Toi cho ca an moi ngay.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "feed", "ipa": "/fiːd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "my", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "fish", "ipa": "/fɪʃ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "every", "ipa": "/ˈɛvri/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "day", "ipa": "/deɪ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [2, 3], "color": "#2196F3"},
+        {"group": 3, "label_en": "adverbial phrase", "label_zh": "状语短语", "label_vi": "cum trang ngu", "word_indices": [4, 5], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 15,
+      "text": "Her hamster is small and cute.",
+      "translation_zh": "她的仓鼠又小又可爱。",
+      "translation_vi": "Con chuot hamster cua co ay nho va de thuong.",
+      "words": [
+        {"word": "Her", "ipa": "/hɜːr/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "hamster", "ipa": "/ˈhæmstər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "small", "ipa": "/smɔːl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "cute", "ipa": "/kjuːt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate phrase", "label_zh": "谓语短语", "label_vi": "cum vi ngu", "word_indices": [2, 3, 4, 5], "color": "#F44336"}
+      ]
+    }
+  ]
+}

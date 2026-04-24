@@ -1,0 +1,315 @@
+{
+  "id": 58,
+  "title": "Meetings",
+  "title_zh": "会议",
+  "title_vi": "Cuoc hop",
+  "difficulty": "A2",
+  "category": "business",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "The meeting starts in ten minutes.",
+      "translation_zh": "会议十分钟后开始。",
+      "translation_vi": "Cuoc hop bat dau trong muoi phut nua.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "meeting", "ipa": "/ˈmiːtɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "starts", "ipa": "/stɑːrts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 2, "group_color": "#607D8B"},
+        {"word": "ten", "ipa": "/tɛn/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "minutes", "ipa": "/ˈmɪnɪts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [3, 4, 5], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 2,
+      "text": "Please take a seat at the table.",
+      "translation_zh": "请在桌旁坐下。",
+      "translation_vi": "Xin moi ngoi vao ban.",
+      "words": [
+        {"word": "Please", "ipa": "/pliːz/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "politeness", "role_zh": "礼貌用语", "role_vi": "tu lich su", "group": 0, "group_color": "#4CAF50"},
+        {"word": "take", "ipa": "/teɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "seat", "ipa": "/siːt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "at", "ipa": "/æt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 3, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "table", "ipa": "/ˈteɪbəl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "politeness marker", "label_zh": "礼貌用语", "label_vi": "tu lich su", "word_indices": [0], "color": "#4CAF50"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [2, 3], "color": "#2196F3"},
+        {"group": 3, "label_en": "place adverbial", "label_zh": "地点状语", "label_vi": "trang ngu noi chon", "word_indices": [4, 5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Let us begin with the first topic.",
+      "translation_zh": "让我们从第一个话题开始。",
+      "translation_vi": "Chung ta hay bat dau voi chu de dau tien.",
+      "words": [
+        {"word": "Let", "ipa": "/lɛt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "us", "ipa": "/ʌs/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "begin", "ipa": "/bɪˈɡɪn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "with", "ipa": "/wɪð/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 2, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "first", "ipa": "/fɜːrst/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "topic", "ipa": "/ˈtɑːpɪk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "imperative", "label_zh": "祈使句", "label_vi": "cau menh lenh", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [3, 4, 5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 4,
+      "text": "Does anyone have questions about the plan?",
+      "translation_zh": "有人对这个计划有问题吗？",
+      "translation_vi": "Co ai co cau hoi ve ke hoach khong?",
+      "words": [
+        {"word": "Does", "ipa": "/dʌz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "anyone", "ipa": "/ˈɛniwʌn/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "questions", "ipa": "/ˈkwɛstʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "about", "ipa": "/əˈbaʊt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 2, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "plan", "ipa": "/plæn/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "auxiliary + subject", "label_zh": "助动词+主语", "label_vi": "tro dong tu + chu ngu", "word_indices": [0, 1], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate + object", "label_zh": "谓语+宾语", "label_vi": "vi ngu + tan ngu", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [4, 5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 5,
+      "text": "I agree with your suggestion.",
+      "translation_zh": "我同意你的建议。",
+      "translation_vi": "Toi dong y voi de xuat cua ban.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "agree", "ipa": "/əˈɡriː/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "with", "ipa": "/wɪð/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 2, "group_color": "#607D8B"},
+        {"word": "your", "ipa": "/jʊr/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "suggestion", "ipa": "/səˈdʒɛstʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [2, 3, 4], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 6,
+      "text": "We need to discuss the budget for next quarter.",
+      "translation_zh": "我们需要讨论下个季度的预算。",
+      "translation_vi": "Chung toi can thao luan ngan sach cho quy toi.",
+      "words": [
+        {"word": "We", "ipa": "/wiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "need", "ipa": "/niːd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 1, "group_color": "#00BCD4"},
+        {"word": "discuss", "ipa": "/dɪˈskʌs/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "budget", "ipa": "/ˈbʌdʒɪt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "for", "ipa": "/fɔːr/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 3, "group_color": "#607D8B"},
+        {"word": "next", "ipa": "/nɛkst/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "quarter", "ipa": "/ˈkwɔːrtər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1, 2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [4, 5], "color": "#2196F3"},
+        {"group": 3, "label_en": "purpose adverbial", "label_zh": "目的状语", "label_vi": "trang ngu muc dich", "word_indices": [6, 7, 8], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 7,
+      "text": "Can you share your screen with us?",
+      "translation_zh": "你能和我们共享你的屏幕吗？",
+      "translation_vi": "Ban co the chia se man hinh voi chung toi khong?",
+      "words": [
+        {"word": "Can", "ipa": "/kæn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "share", "ipa": "/ʃɛr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "your", "ipa": "/jʊr/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "screen", "ipa": "/skriːn/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "with", "ipa": "/wɪð/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 3, "group_color": "#607D8B"},
+        {"word": "us", "ipa": "/ʌs/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#9C27B0"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "modal + subject", "label_zh": "情态动词+主语", "label_vi": "dong tu tinh thai + chu ngu", "word_indices": [0, 1], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 8,
+      "text": "I think we should change our approach.",
+      "translation_zh": "我认为我们应该改变我们的方法。",
+      "translation_vi": "Toi nghi chung ta nen thay doi cach tiep can.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "think", "ipa": "/θɪŋk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "we", "ipa": "/wiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "should", "ipa": "/ʃʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "change", "ipa": "/tʃeɪndʒ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "our", "ipa": "/aʊr/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "approach", "ipa": "/əˈproʊtʃ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "object clause", "label_zh": "宾语从句", "label_vi": "menh de tan ngu", "word_indices": [2, 3, 4], "color": "#9C27B0"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [5, 6], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 9,
+      "text": "The sales numbers look very good this month.",
+      "translation_zh": "这个月的销售数据看起来非常好。",
+      "translation_vi": "So lieu ban hang thang nay trat rat tot.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "sales", "ipa": "/seɪlz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "numbers", "ipa": "/ˈnʌmbərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "look", "ipa": "/lʊk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "very", "ipa": "/ˈvɛri/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "good", "ipa": "/ɡʊd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "this", "ipa": "/ðɪs/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "month", "ipa": "/mʌnθ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate + complement", "label_zh": "谓语+表语", "label_vi": "vi ngu + bo ngu", "word_indices": [3, 4, 5], "color": "#F44336"},
+        {"group": 2, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [6, 7], "color": "#3F51B5"}
+      ]
+    },
+    {
+      "index": 10,
+      "text": "Who is responsible for this project?",
+      "translation_zh": "谁负责这个项目？",
+      "translation_vi": "Ai la nguoi chiu trach nhiem du an nay?",
+      "words": [
+        {"word": "Who", "ipa": "/huː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "responsible", "ipa": "/rɪˈspɑːnsəbəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "for", "ipa": "/fɔːr/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 2, "group_color": "#607D8B"},
+        {"word": "this", "ipa": "/ðɪs/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "project", "ipa": "/ˈprɑːdʒɛkt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "question subject", "label_zh": "疑问主语", "label_vi": "chu ngu nghi van", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate + complement", "label_zh": "谓语+表语", "label_vi": "vi ngu + bo ngu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [3, 4, 5], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 11,
+      "text": "We will schedule another meeting next week.",
+      "translation_zh": "我们将在下周安排另一次会议。",
+      "translation_vi": "Chung toi se len lich hop lai tuan sau.",
+      "words": [
+        {"word": "We", "ipa": "/wiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "will", "ipa": "/wɪl/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "schedule", "ipa": "/ˈskɛdʒuːl/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "another", "ipa": "/əˈnʌðər/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "meeting", "ipa": "/ˈmiːtɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "next", "ipa": "/nɛkst/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "week", "ipa": "/wiːk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4], "color": "#2196F3"},
+        {"group": 3, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [5, 6], "color": "#FF9800"}
+      ]
+    },
+    {
+      "index": 12,
+      "text": "Could you explain that point again?",
+      "translation_zh": "你能再解释一下那个要点吗？",
+      "translation_vi": "Ban co the giai thich lai diem do khong?",
+      "words": [
+        {"word": "Could", "ipa": "/kʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "explain", "ipa": "/ɪkˈspleɪn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "point", "ipa": "/pɔɪnt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "again", "ipa": "/əˈɡɛn/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "modal + subject", "label_zh": "情态动词+主语", "label_vi": "dong tu tinh thai + chu ngu", "word_indices": [0, 1], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4], "color": "#2196F3"},
+        {"group": 3, "label_en": "adverbial", "label_zh": "状语", "label_vi": "trang ngu", "word_indices": [5], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 13,
+      "text": "The deadline has been moved to next Friday.",
+      "translation_zh": "截止日期已移到下周五。",
+      "translation_vi": "Han chot da duoc doi sang thu Sau tuan sau.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "deadline", "ipa": "/ˈdɛdlaɪn/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "has", "ipa": "/hæz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "been", "ipa": "/bɪn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "moved", "ipa": "/muːvd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 2, "group_color": "#607D8B"},
+        {"word": "next", "ipa": "/nɛkst/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "Friday", "ipa": "/ˈfraɪdeɪ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "passive predicate", "label_zh": "被动谓语", "label_vi": "vi ngu bi dong", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [5, 6, 7], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 14,
+      "text": "I will send everyone the meeting notes later.",
+      "translation_zh": "我稍后会把会议记录发给大家。",
+      "translation_vi": "Toi se gui cho moi nguoi ghi chep cuoc hop sau.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "will", "ipa": "/wɪl/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "send", "ipa": "/sɛnd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "everyone", "ipa": "/ˈɛvriˌwʌn/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "indirect object", "role_zh": "间接宾语", "role_vi": "tan ngu gian tiep", "group": 1, "group_color": "#9C27B0"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "meeting", "ipa": "/ˈmiːtɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "notes", "ipa": "/noʊts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "later", "ipa": "/ˈleɪtər/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate + indirect object", "label_zh": "谓语+间接宾语", "label_vi": "vi ngu + tan ngu gian tiep", "word_indices": [1, 2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "direct object", "label_zh": "直接宾语", "label_vi": "tan ngu truc tiep", "word_indices": [4, 5, 6], "color": "#2196F3"},
+        {"group": 3, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [7], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 15,
+      "text": "Thank you all for attending today.",
+      "translation_zh": "感谢大家今天参加。",
+      "translation_vi": "Cam on tat ca da tham du hom nay.",
+      "words": [
+        {"word": "Thank", "ipa": "/θæŋk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "all", "ipa": "/ɔːl/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "for", "ipa": "/fɔːr/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "preposition", "role_zh": "介词", "role_vi": "gioi tu", "group": 1, "group_color": "#607D8B"},
+        {"word": "attending", "ipa": "/əˈtɛndɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "today", "ipa": "/təˈdeɪ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "thanks", "label_zh": "感谢", "label_vi": "cam on", "word_indices": [0, 1, 2], "color": "#F44336"},
+        {"group": 1, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [3, 4], "color": "#607D8B"},
+        {"group": 2, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [5], "color": "#4CAF50"}
+      ]
+    }
+  ]
+}

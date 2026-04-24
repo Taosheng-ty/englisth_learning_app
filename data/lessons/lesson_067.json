@@ -1,0 +1,371 @@
+{
+  "id": 67,
+  "title": "Cooking Instructions",
+  "title_zh": "烹饪指导",
+  "title_vi": "Huong dan nau an",
+  "difficulty": "B1",
+  "category": "daily_conversation",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "If you heat the oil before adding the garlic, it will taste much better.",
+      "translation_zh": "如果你在加蒜之前先把油加热，味道会好很多。",
+      "translation_vi": "Neu ban lam nong dau truoc khi them toi, mon an se ngon hon nhieu.",
+      "words": [
+        {"word": "If", "ipa": "/ɪf/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 0, "group_color": "#E91E63"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "heat", "ipa": "/hiːt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "oil", "ipa": "/ɔɪl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "before", "ipa": "/bɪˈfɔːr/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#607D8B"},
+        {"word": "adding", "ipa": "/ˈædɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "garlic", "ipa": "/ˈɡɑːrlɪk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "it", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "will", "ipa": "/wɪl/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "taste", "ipa": "/teɪst/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "much", "ipa": "/mʌtʃ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "better", "ipa": "/ˈbɛtər/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "conditional clause", "label_zh": "条件从句", "label_vi": "menh de dieu kien", "word_indices": [0, 1, 2, 3, 4], "color": "#E91E63"},
+        {"group": 1, "label_en": "time phrase", "label_zh": "时间短语", "label_vi": "cum thoi gian", "word_indices": [5, 6, 7, 8], "color": "#607D8B"},
+        {"group": 2, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [9, 10, 11, 12, 13], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 2,
+      "text": "You should stir the sauce constantly so that it does not burn.",
+      "translation_zh": "你应该不停地搅拌酱汁，这样它就不会烧焦。",
+      "translation_vi": "Ban nen khuay nuoc sot lien tuc de no khong bi chay.",
+      "words": [
+        {"word": "You", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "should", "ipa": "/ʃʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "stir", "ipa": "/stɜːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "sauce", "ipa": "/sɔːs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "constantly", "ipa": "/ˈkɒnstəntli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "so", "ipa": "/soʊ/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "it", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "does", "ipa": "/dʌz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "not", "ipa": "/nɒt/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "burn", "ipa": "/bɜːrn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2, 3, 4, 5], "color": "#F44336"},
+        {"group": 1, "label_en": "purpose clause", "label_zh": "目的从句", "label_vi": "menh de muc dich", "word_indices": [6, 7, 8, 9, 10, 11], "color": "#E91E63"}
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Once the water starts boiling, you can add the pasta.",
+      "translation_zh": "一旦水开始沸腾，你就可以加入意大利面了。",
+      "translation_vi": "Khi nuoc bat dau soi, ban co the cho mi vao.",
+      "words": [
+        {"word": "Once", "ipa": "/wʌns/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 0, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "water", "ipa": "/ˈwɔːtər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "starts", "ipa": "/stɑːrts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "boiling", "ipa": "/ˈbɔɪlɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "complement", "role_zh": "补语", "role_vi": "bo ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "can", "ipa": "/kæn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "add", "ipa": "/æd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "pasta", "ipa": "/ˈpæstə/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "time clause", "label_zh": "时间从句", "label_vi": "menh de thoi gian", "word_indices": [0, 1, 2, 3, 4], "color": "#E91E63"},
+        {"group": 1, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [5, 6, 7, 8, 9], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 4,
+      "text": "Make sure that you chop the vegetables into small pieces.",
+      "translation_zh": "确保你把蔬菜切成小块。",
+      "translation_vi": "Hay dam bao ban cat rau thanh nhung mieng nho.",
+      "words": [
+        {"word": "Make", "ipa": "/meɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "sure", "ipa": "/ʃʊr/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "chop", "ipa": "/tʃɒp/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "vegetables", "ipa": "/ˈvɛdʒtəbəlz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "into", "ipa": "/ˈɪntuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "small", "ipa": "/smɔːl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "pieces", "ipa": "/ˈpiːsɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "imperative phrase", "label_zh": "祈使短语", "label_vi": "cum menh lenh", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "object clause", "label_zh": "宾语从句", "label_vi": "menh de tan ngu", "word_indices": [2, 3, 4, 5, 6], "color": "#E91E63"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [7, 8, 9], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 5,
+      "text": "The recipe says that we need to marinate the chicken overnight.",
+      "translation_zh": "食谱上说我们需要把鸡肉腌制一整夜。",
+      "translation_vi": "Cong thuc noi rang chung ta can uop ga qua dem.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "recipe", "ipa": "/ˈrɛsɪpi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "says", "ipa": "/sɛz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "we", "ipa": "/wiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "need", "ipa": "/niːd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 1, "group_color": "#00BCD4"},
+        {"word": "marinate", "ipa": "/ˈmærɪneɪt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "chicken", "ipa": "/ˈtʃɪkɪn/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "overnight", "ipa": "/ˌoʊvərˈnaɪt/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "object clause", "label_zh": "宾语从句", "label_vi": "menh de tan ngu", "word_indices": [3, 4, 5, 6, 7, 8, 9, 10], "color": "#E91E63"}
+      ]
+    },
+    {
+      "index": 6,
+      "text": "While the soup is simmering, you can prepare the salad.",
+      "translation_zh": "当汤在慢炖的时候，你可以准备沙拉。",
+      "translation_vi": "Trong khi sup dang nim, ban co the chuan bi salad.",
+      "words": [
+        {"word": "While", "ipa": "/waɪl/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 0, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "soup", "ipa": "/suːp/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "simmering", "ipa": "/ˈsɪmərɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "can", "ipa": "/kæn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "prepare", "ipa": "/prɪˈpɛr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "salad", "ipa": "/ˈsæləd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "time clause", "label_zh": "时间从句", "label_vi": "menh de thoi gian", "word_indices": [0, 1, 2, 3, 4], "color": "#E91E63"},
+        {"group": 1, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [5, 6, 7, 8, 9], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 7,
+      "text": "I prefer to bake the bread at a lower temperature for a longer time.",
+      "translation_zh": "我更喜欢用较低的温度烘烤面包更长的时间。",
+      "translation_vi": "Toi thich nuong banh mi o nhiet do thap hon trong thoi gian dai hon.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "prefer", "ipa": "/prɪˈfɜːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 0, "group_color": "#00BCD4"},
+        {"word": "bake", "ipa": "/beɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "bread", "ipa": "/brɛd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "at", "ipa": "/æt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "lower", "ipa": "/ˈloʊər/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "temperature", "ipa": "/ˈtɛmpərətʃər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "for", "ipa": "/fɔːr/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "longer", "ipa": "/ˈlɔːŋɡər/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "time", "ipa": "/taɪm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2, 3, 4, 5], "color": "#F44336"},
+        {"group": 1, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [6, 7, 8, 9], "color": "#607D8B"},
+        {"group": 2, "label_en": "time phrase", "label_zh": "时间短语", "label_vi": "cum thoi gian", "word_indices": [10, 11, 12, 13], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 8,
+      "text": "Could you tell me how long I should cook the rice?",
+      "translation_zh": "你能告诉我米饭应该煮多长时间吗？",
+      "translation_vi": "Ban co the cho toi biet nau com bao lau khong?",
+      "words": [
+        {"word": "Could", "ipa": "/kʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "tell", "ipa": "/tɛl/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "me", "ipa": "/miː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "how", "ipa": "/haʊ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "long", "ipa": "/lɔːŋ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "should", "ipa": "/ʃʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "cook", "ipa": "/kʊk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "rice", "ipa": "/raɪs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2, 3], "color": "#F44336"},
+        {"group": 1, "label_en": "embedded question", "label_zh": "嵌入式问句", "label_vi": "cau hoi nhung", "word_indices": [4, 5, 6, 7, 8, 9, 10], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 9,
+      "text": "After you peel the potatoes, cut them into thin slices.",
+      "translation_zh": "你把土豆削皮之后，把它们切成薄片。",
+      "translation_vi": "Sau khi ban got vo khoai tay, cat chung thanh lat mong.",
+      "words": [
+        {"word": "After", "ipa": "/ˈæftər/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#607D8B"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "peel", "ipa": "/piːl/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "potatoes", "ipa": "/pəˈteɪtoʊz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "cut", "ipa": "/kʌt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "them", "ipa": "/ðɛm/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "into", "ipa": "/ˈɪntuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "thin", "ipa": "/θɪn/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "slices", "ipa": "/ˈslaɪsɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "time clause", "label_zh": "时间从句", "label_vi": "menh de thoi gian", "word_indices": [0, 1, 2, 3, 4], "color": "#607D8B"},
+        {"group": 1, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [5, 6], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [7, 8, 9], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 10,
+      "text": "If the oven is not hot enough, the cake will not rise properly.",
+      "translation_zh": "如果烤箱不够热，蛋糕就不会发起来。",
+      "translation_vi": "Neu lo nuong khong du nong, banh se khong no dung cach.",
+      "words": [
+        {"word": "If", "ipa": "/ɪf/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 0, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "oven", "ipa": "/ˈʌvən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "not", "ipa": "/nɒt/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "hot", "ipa": "/hɒt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "enough", "ipa": "/ɪˈnʌf/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "cake", "ipa": "/keɪk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "will", "ipa": "/wɪl/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "not", "ipa": "/nɒt/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "rise", "ipa": "/raɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "properly", "ipa": "/ˈprɒpərli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "conditional clause", "label_zh": "条件从句", "label_vi": "menh de dieu kien", "word_indices": [0, 1, 2, 3, 4, 5, 6], "color": "#E91E63"},
+        {"group": 1, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [7, 8, 9, 10, 11, 12], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 11,
+      "text": "You need to knead the dough until it becomes smooth and elastic.",
+      "translation_zh": "你需要揉面团直到它变得光滑有弹性。",
+      "translation_vi": "Ban can nhoi bot cho den khi no tro nen min va dan hoi.",
+      "words": [
+        {"word": "You", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "need", "ipa": "/niːd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 0, "group_color": "#00BCD4"},
+        {"word": "knead", "ipa": "/niːd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "dough", "ipa": "/doʊ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "until", "ipa": "/ənˈtɪl/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "it", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "becomes", "ipa": "/bɪˈkʌmz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "smooth", "ipa": "/smuːð/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "elastic", "ipa": "/ɪˈlæstɪk/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2, 3, 4, 5], "color": "#F44336"},
+        {"group": 1, "label_en": "adverbial clause", "label_zh": "状语从句", "label_vi": "menh de trang ngu", "word_indices": [6, 7, 8, 9, 10, 11], "color": "#E91E63"}
+      ]
+    },
+    {
+      "index": 12,
+      "text": "Be careful not to overcook the fish because it dries out quickly.",
+      "translation_zh": "小心不要把鱼煮过头，因为它很快就会变干。",
+      "translation_vi": "Can than dung nau qua chin ca vi no se bi kho rat nhanh.",
+      "words": [
+        {"word": "Be", "ipa": "/biː/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "careful", "ipa": "/ˈkɛrfəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "not", "ipa": "/nɒt/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 0, "group_color": "#00BCD4"},
+        {"word": "overcook", "ipa": "/ˌoʊvərˈkʊk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "fish", "ipa": "/fɪʃ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "because", "ipa": "/bɪˈkɔːz/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "it", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "dries", "ipa": "/draɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "out", "ipa": "/aʊt/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "particle", "role_zh": "小品词", "role_vi": "tieu tu", "group": 1, "group_color": "#00BCD4"},
+        {"word": "quickly", "ipa": "/ˈkwɪkli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2, 3, 4, 5, 6], "color": "#F44336"},
+        {"group": 1, "label_en": "reason clause", "label_zh": "原因从句", "label_vi": "menh de nguyen nhan", "word_indices": [7, 8, 9, 10, 11], "color": "#E91E63"}
+      ]
+    },
+    {
+      "index": 13,
+      "text": "I usually add some herbs and spices to make the dish more flavorful.",
+      "translation_zh": "我通常会加一些香草和香料来让菜肴更有味道。",
+      "translation_vi": "Toi thuong them mot so thao moc va gia vi de mon an ngon hon.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "usually", "ipa": "/ˈjuːʒuəli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "add", "ipa": "/æd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "some", "ipa": "/sʌm/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "herbs", "ipa": "/hɜːrbz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 0, "group_color": "#E91E63"},
+        {"word": "spices", "ipa": "/ˈspaɪsɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 1, "group_color": "#00BCD4"},
+        {"word": "make", "ipa": "/meɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "dish", "ipa": "/dɪʃ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "more", "ipa": "/mɔːr/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "flavorful", "ipa": "/ˈfleɪvərfəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2, 3, 4, 5, 6], "color": "#F44336"},
+        {"group": 1, "label_en": "purpose phrase", "label_zh": "目的短语", "label_vi": "cum muc dich", "word_indices": [7, 8, 9, 10, 11, 12], "color": "#00BCD4"}
+      ]
+    },
+    {
+      "index": 14,
+      "text": "The secret to a good stew is letting it cook slowly on low heat.",
+      "translation_zh": "好炖菜的秘诀是用小火慢慢煮。",
+      "translation_vi": "Bi quyet de co mon ham ngon la de no nau cham tren lua nho.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "secret", "ipa": "/ˈsiːkrɪt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "to", "ipa": "/tuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "good", "ipa": "/ɡʊd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "stew", "ipa": "/stuː/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "letting", "ipa": "/ˈlɛtɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "it", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "cook", "ipa": "/kʊk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "complement", "role_zh": "补语", "role_vi": "bo ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "slowly", "ipa": "/ˈsloʊli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "on", "ipa": "/ɒn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "low", "ipa": "/loʊ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "heat", "ipa": "/hiːt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject phrase", "label_zh": "主语短语", "label_vi": "cum chu ngu", "word_indices": [0, 1, 2, 3, 4, 5], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate phrase", "label_zh": "谓语短语", "label_vi": "cum vi ngu", "word_indices": [6, 7, 8, 9, 10], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [11, 12, 13], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 15,
+      "text": "Remember to taste the food before you add more salt.",
+      "translation_zh": "记得在加盐之前先尝尝食物的味道。",
+      "translation_vi": "Hay nho nem thu mon an truoc khi ban them muoi.",
+      "words": [
+        {"word": "Remember", "ipa": "/rɪˈmɛmbər/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 0, "group_color": "#00BCD4"},
+        {"word": "taste", "ipa": "/teɪst/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "food", "ipa": "/fuːd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "before", "ipa": "/bɪˈfɔːr/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "add", "ipa": "/æd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "more", "ipa": "/mɔːr/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "salt", "ipa": "/sɔːlt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2, 3, 4], "color": "#F44336"},
+        {"group": 1, "label_en": "time clause", "label_zh": "时间从句", "label_vi": "menh de thoi gian", "word_indices": [5, 6, 7, 8, 9], "color": "#E91E63"}
+      ]
+    }
+  ]
+}

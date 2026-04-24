@@ -1,0 +1,320 @@
+{
+  "id": 126,
+  "title": "Law and Rights",
+  "title_zh": "法律和权利",
+  "title_vi": "Phap luat va quyen",
+  "difficulty": "B2",
+  "category": "academic",
+  "sentences": [
+    {
+      "index": 1, "text": "Constitutional amendments safeguard fundamental civil liberties from government overreach.",
+      "translation_zh": "宪法修正案保护基本公民自由免受政府越权侵害。", "translation_vi": "Cac tu chinh hien phap bao ve cac quyen tu do dan su co ban khoi su vuot quyen cua chinh phu.",
+      "words": [
+        {"word": "Constitutional", "ipa": "/ˌkɒnstɪˈtjuːʃənəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "amendments", "ipa": "/əˈmɛndmənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "safeguard", "ipa": "/ˈseɪfɡɑːrd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "fundamental", "ipa": "/ˌfʌndəˈmɛntəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "civil", "ipa": "/ˈsɪvɪl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "liberties", "ipa": "/ˈlɪbərtiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "from", "ipa": "/frɒm/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "government", "ipa": "/ˈɡʌvərnmənt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "overreach", "ipa": "/ˌoʊvərˈriːtʃ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4, 5], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [6, 7, 8], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 2, "text": "Due process ensures that accused individuals receive fair legal treatment.",
+      "translation_zh": "正当程序确保被告人获得公平的法律待遇。", "translation_vi": "Trinh tu hop phap dam bao rang cac ca nhan bi buoc toi nhan duoc doi xu phap ly cong bang.",
+      "words": [
+        {"word": "Due", "ipa": "/djuː/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "process", "ipa": "/ˈprɒsɛs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "ensures", "ipa": "/ɪnˈʃʊərz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "accused", "ipa": "/əˈkjuːzd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "individuals", "ipa": "/ˌɪndɪˈvɪdʒuəlz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "receive", "ipa": "/rɪˈsiːv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "fair", "ipa": "/fɛr/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "legal", "ipa": "/ˈliːɡəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "treatment", "ipa": "/ˈtriːtmənt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "noun clause", "label_zh": "名词从句", "label_vi": "menh de danh tu", "word_indices": [3, 4, 5, 6, 7, 8, 9], "color": "#E91E63"}
+      ]
+    },
+    {
+      "index": 3, "text": "Judicial independence prevents political interference in court proceedings.",
+      "translation_zh": "司法独立防止政治干预法庭诉讼。", "translation_vi": "Doc lap tu phap ngan chan su can thiep chinh tri vao cac thu tuc toa an.",
+      "words": [
+        {"word": "Judicial", "ipa": "/dʒuːˈdɪʃəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "independence", "ipa": "/ˌɪndɪˈpɛndəns/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "prevents", "ipa": "/prɪˈvɛnts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "political", "ipa": "/pəˈlɪtɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "interference", "ipa": "/ˌɪntərˈfɪərəns/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "court", "ipa": "/kɔːrt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "proceedings", "ipa": "/prəˈsiːdɪŋz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6, 7], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 4, "text": "International humanitarian law protects civilians during armed conflicts.",
+      "translation_zh": "国际人道主义法在武装冲突期间保护平民。", "translation_vi": "Luat nhan dao quoc te bao ve thuong dan trong cac cuoc xung dot vu trang.",
+      "words": [
+        {"word": "International", "ipa": "/ˌɪntərˈnæʃənəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "humanitarian", "ipa": "/hjuːˌmænɪˈtɛriən/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "law", "ipa": "/lɔː/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "protects", "ipa": "/prəˈtɛkts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "civilians", "ipa": "/sɪˈvɪliənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "during", "ipa": "/ˈdjʊərɪŋ/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "armed", "ipa": "/ɑːrmd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "conflicts", "ipa": "/ˈkɒnflɪkts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate + object", "label_zh": "谓语+宾语", "label_vi": "vi ngu + tan ngu", "word_indices": [3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6, 7], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 5, "text": "Intellectual property legislation shields creative works from unauthorized reproduction.",
+      "translation_zh": "知识产权立法保护创意作品免受未经授权的复制。", "translation_vi": "Luat so huu tri tue bao ve cac tac pham sang tao khoi viec sao chep trai phep.",
+      "words": [
+        {"word": "Intellectual", "ipa": "/ˌɪntəˈlɛktʃuəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "property", "ipa": "/ˈprɒpərti/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "legislation", "ipa": "/ˌlɛdʒɪˈsleɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "shields", "ipa": "/ʃiːldz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "creative", "ipa": "/kriˈeɪtɪv/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "works", "ipa": "/wɜːrks/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "from", "ipa": "/frɒm/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "unauthorized", "ipa": "/ʌnˈɔːθəraɪzd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "reproduction", "ipa": "/ˌriːprəˈdʌkʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [3], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [4, 5], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [6, 7, 8], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 6, "text": "Precedent established by higher courts binds all subordinate jurisdictions.",
+      "translation_zh": "上级法院确立的先例对所有下级管辖区具有约束力。", "translation_vi": "Tien le duoc thiet lap boi cac toa an cap cao rang buoc tat ca cac co quan tai phan cap duoi.",
+      "words": [
+        {"word": "Precedent", "ipa": "/ˈprɛsɪdənt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "established", "ipa": "/ɪˈstæblɪʃt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "by", "ipa": "/baɪ/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 0, "group_color": "#607D8B"},
+        {"word": "higher", "ipa": "/ˈhaɪər/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "courts", "ipa": "/kɔːrts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 0, "group_color": "#2196F3"},
+        {"word": "binds", "ipa": "/baɪndz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "all", "ipa": "/ɔːl/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "subordinate", "ipa": "/səˈbɔːrdɪnɪt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "jurisdictions", "ipa": "/ˌdʒʊərɪsˈdɪkʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject phrase", "label_zh": "主语短语", "label_vi": "cum chu ngu", "word_indices": [0, 1, 2, 3, 4], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [5], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [6, 7, 8], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 7, "text": "Habeas corpus prevents indefinite detention without formal criminal charges.",
+      "translation_zh": "人身保护令防止在没有正式刑事指控的情况下无限期拘留。", "translation_vi": "Lenh bao ho than the ngan chan viec giam giu vo thoi han ma khong co cao buoc hinh su chinh thuc.",
+      "words": [
+        {"word": "Habeas", "ipa": "/ˈheɪbiæs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "corpus", "ipa": "/ˈkɔːrpəs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "prevents", "ipa": "/prɪˈvɛnts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "indefinite", "ipa": "/ɪnˈdɛfɪnɪt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "detention", "ipa": "/dɪˈtɛnʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "without", "ipa": "/wɪðˈaʊt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "formal", "ipa": "/ˈfɔːrməl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "criminal", "ipa": "/ˈkrɪmɪnəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "charges", "ipa": "/ˈtʃɑːrdʒɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6, 7, 8], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 8, "text": "Whistleblower protections encourage reporting of institutional corruption and fraud.",
+      "translation_zh": "举报人保护制度鼓励举报机构腐败和欺诈行为。", "translation_vi": "Bao ve nguoi to giac khuyen khich viec to cao tham nhung va gian lan cua to chuc.",
+      "words": [
+        {"word": "Whistleblower", "ipa": "/ˈwɪsəlˌbloʊər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "protections", "ipa": "/prəˈtɛkʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "encourage", "ipa": "/ɪnˈkʌrɪdʒ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "reporting", "ipa": "/rɪˈpɔːrtɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "institutional", "ipa": "/ˌɪnstɪˈtjuːʃənəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "corruption", "ipa": "/kəˈrʌpʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "fraud", "ipa": "/frɔːd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [3, 4, 5, 6, 7, 8], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 9, "text": "Restorative justice focuses on rehabilitating offenders through reconciliation processes.",
+      "translation_zh": "恢复性司法侧重于通过和解过程使犯罪者重新融入社会。", "translation_vi": "Tu phap phuc hoi tap trung vao viec phuc hoi pham nhan thong qua cac qua trinh hoa giai.",
+      "words": [
+        {"word": "Restorative", "ipa": "/rɪˈstɔːrətɪv/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "justice", "ipa": "/ˈdʒʌstɪs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "focuses", "ipa": "/ˈfoʊkəsɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "on", "ipa": "/ɒn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 1, "group_color": "#607D8B"},
+        {"word": "rehabilitating", "ipa": "/ˌriːəˈbɪlɪteɪtɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "offenders", "ipa": "/əˈfɛndərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "through", "ipa": "/θruː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "reconciliation", "ipa": "/ˌrɛkənsɪliˈeɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "processes", "ipa": "/ˈprɒsɛsɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "gerund phrase", "label_zh": "动名词短语", "label_vi": "cum dong danh tu", "word_indices": [4, 5], "color": "#F44336"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [6, 7, 8], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 10, "text": "Privacy rights increasingly conflict with government surveillance capabilities.",
+      "translation_zh": "隐私权与政府监控能力的冲突日益加剧。", "translation_vi": "Quyen rieng tu ngay cang xung dot voi kha nang giam sat cua chinh phu.",
+      "words": [
+        {"word": "Privacy", "ipa": "/ˈpraɪvəsi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "rights", "ipa": "/raɪts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "increasingly", "ipa": "/ɪnˈkriːsɪŋli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "conflict", "ipa": "/kənˈflɪkt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "with", "ipa": "/wɪð/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "government", "ipa": "/ˈɡʌvərnmənt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "surveillance", "ipa": "/sərˈveɪləns/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "capabilities", "ipa": "/ˌkeɪpəˈbɪlɪtiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate", "label_zh": "状语+谓语", "label_vi": "trang ngu + vi ngu", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [4, 5, 6, 7], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 11, "text": "Defendants are presumed innocent until proven guilty beyond reasonable doubt.",
+      "translation_zh": "在被证明有罪之前，被告被推定为无罪，且须排除合理怀疑。", "translation_vi": "Bi cao duoc suy doan vo toi cho den khi bi chung minh co toi ngoai moi nghi ngo hop ly.",
+      "words": [
+        {"word": "Defendants", "ipa": "/dɪˈfɛndənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "are", "ipa": "/ɑːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "presumed", "ipa": "/prɪˈzjuːmd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "innocent", "ipa": "/ˈɪnəsənt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "until", "ipa": "/ənˈtɪl/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "proven", "ipa": "/ˈpruːvən/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "guilty", "ipa": "/ˈɡɪlti/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "beyond", "ipa": "/bɪˈjɒnd/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "reasonable", "ipa": "/ˈriːzənəbəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "doubt", "ipa": "/daʊt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "passive predicate + complement", "label_zh": "被动谓语+表语", "label_vi": "vi ngu bi dong + bo ngu", "word_indices": [1, 2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "adverbial clause", "label_zh": "状语从句", "label_vi": "menh de trang ngu", "word_indices": [4, 5, 6], "color": "#E91E63"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [7, 8, 9], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 12, "text": "Regulatory frameworks must adapt rapidly to emerging technological challenges.",
+      "translation_zh": "监管框架必须快速适应新兴的技术挑战。", "translation_vi": "Cac khung phap ly phai thich ung nhanh chong voi cac thach thuc cong nghe moi noi.",
+      "words": [
+        {"word": "Regulatory", "ipa": "/ˈrɛɡjʊlətɔːri/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "frameworks", "ipa": "/ˈfreɪmwɜːrks/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "must", "ipa": "/mʌst/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "adapt", "ipa": "/əˈdæpt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "rapidly", "ipa": "/ˈræpɪdli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "to", "ipa": "/tuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "emerging", "ipa": "/ɪˈmɜːrdʒɪŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "technological", "ipa": "/ˌtɛknəˈlɒdʒɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "challenges", "ipa": "/ˈtʃælɪndʒɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "modal + predicate + adverb", "label_zh": "情态动词+谓语+状语", "label_vi": "dong tu tinh thai + vi ngu + trang ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6, 7, 8], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 13, "text": "Landmark rulings have progressively expanded the scope of individual rights.",
+      "translation_zh": "里程碑式的裁决逐步扩大了个人权利的范围。", "translation_vi": "Cac phan quyet mang tinh buoc ngoat da dan dan mo rong pham vi cua cac quyen ca nhan.",
+      "words": [
+        {"word": "Landmark", "ipa": "/ˈlændmɑːrk/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "rulings", "ipa": "/ˈruːlɪŋz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "progressively", "ipa": "/prəˈɡrɛsɪvli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "expanded", "ipa": "/ɪkˈspændɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "scope", "ipa": "/skoʊp/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "individual", "ipa": "/ˌɪndɪˈvɪdʒuəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "rights", "ipa": "/raɪts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [5, 6, 7, 8, 9], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 14, "text": "Contractual obligations legally bind all parties to their agreed commitments.",
+      "translation_zh": "合同义务在法律上约束所有各方遵守其约定的承诺。", "translation_vi": "Cac nghia vu hop dong rang buoc ve mat phap ly tat ca cac ben voi cac cam ket da thoa thuan.",
+      "words": [
+        {"word": "Contractual", "ipa": "/kənˈtræktʃuəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "obligations", "ipa": "/ˌɒblɪˈɡeɪʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "legally", "ipa": "/ˈliːɡəli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "bind", "ipa": "/baɪnd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "all", "ipa": "/ɔːl/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "parties", "ipa": "/ˈpɑːrtiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "to", "ipa": "/tuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "their", "ipa": "/ðɛr/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#9C27B0"},
+        {"word": "agreed", "ipa": "/əˈɡriːd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "commitments", "ipa": "/kəˈmɪtmənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate", "label_zh": "状语+谓语", "label_vi": "trang ngu + vi ngu", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [4, 5], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [6, 7, 8, 9], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 15, "text": "Amnesty programs offer conditional pardons to those who voluntarily surrender.",
+      "translation_zh": "特赦计划向自愿投案的人提供有条件的赦免。", "translation_vi": "Cac chuong trinh an xa cung cap su tha toi co dieu kien cho nhung nguoi tu nguyen dau thu.",
+      "words": [
+        {"word": "Amnesty", "ipa": "/ˈæmnɪsti/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "programs", "ipa": "/ˈproʊɡræmz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "offer", "ipa": "/ˈɒfər/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "conditional", "ipa": "/kənˈdɪʃənəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "pardons", "ipa": "/ˈpɑːrdənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "to", "ipa": "/tuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "those", "ipa": "/ðoʊz/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#9C27B0"},
+        {"word": "who", "ipa": "/huː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 3, "group_color": "#9C27B0"},
+        {"word": "voluntarily", "ipa": "/ˈvɒləntɛrɪli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"},
+        {"word": "surrender", "ipa": "/səˈrɛndər/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 3, "group_color": "#F44336"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional + relative clause", "label_zh": "介词短语+关系从句", "label_vi": "cum gioi tu + menh de quan he", "word_indices": [5, 6, 7, 8, 9], "color": "#607D8B"}
+      ]
+    }
+  ]
+}

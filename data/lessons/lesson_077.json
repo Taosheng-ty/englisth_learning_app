@@ -1,0 +1,411 @@
+{
+  "id": 77,
+  "title": "Art and Museums",
+  "title_zh": "艺术和博物馆",
+  "title_vi": "Nghe thuat va bao tang",
+  "difficulty": "B1",
+  "category": "culture",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "The painting that hangs in the main hall was donated by a wealthy collector.",
+      "translation_zh": "挂在大厅里的那幅画是由一位富有的收藏家捐赠的。",
+      "translation_vi": "Buc tranh treo o sanh chinh duoc tang boi mot nha suu tap giau co.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "painting", "ipa": "/ˈpeɪntɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 1, "group_color": "#9C27B0"},
+        {"word": "hangs", "ipa": "/hæŋz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "main", "ipa": "/meɪn/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "hall", "ipa": "/hɔːl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "was", "ipa": "/wɒz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "donated", "ipa": "/doʊˈneɪtɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "by", "ipa": "/baɪ/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "agent marker", "role_zh": "施事标记", "role_vi": "gioi tu chi tac nhan", "group": 3, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "wealthy", "ipa": "/ˈwɛlθi/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "collector", "ipa": "/kəˈlɛktər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "agent", "role_zh": "施事", "role_vi": "tac nhan", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [2, 3, 4, 5, 6, 7], "color": "#9C27B0"},
+        {"group": 2, "label_en": "passive predicate", "label_zh": "被动谓语", "label_vi": "vi ngu bi dong", "word_indices": [8, 9], "color": "#F44336"},
+        {"group": 3, "label_en": "agent phrase", "label_zh": "施事短语", "label_vi": "cum tu tac nhan", "word_indices": [10, 11, 12, 13], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 2,
+      "text": "The guide explained that the sculpture had been carved from a single piece of marble.",
+      "translation_zh": "导游解释说这座雕塑是由一整块大理石雕刻而成的。",
+      "translation_vi": "Huong dan vien giai thich rang buc tuong duoc cham khac tu mot khoi da cam thach.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "guide", "ipa": "/ɡaɪd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "explained", "ipa": "/ɪkˈspleɪnd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "sculpture", "ipa": "/ˈskʌlptʃər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "had", "ipa": "/hæd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "been", "ipa": "/biːn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "carved", "ipa": "/kɑːrvd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "from", "ipa": "/frɒm/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "single", "ipa": "/ˈsɪŋɡəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "piece", "ipa": "/piːs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "marble", "ipa": "/ˈmɑːrbəl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2], "color": "#F44336"},
+        {"group": 1, "label_en": "reported clause subject", "label_zh": "宾语从句主语", "label_vi": "chu ngu menh de tuong thuat", "word_indices": [3, 4, 5], "color": "#E91E63"},
+        {"group": 2, "label_en": "passive perfect predicate", "label_zh": "被动完成谓语", "label_vi": "vi ngu bi dong hoan thanh", "word_indices": [6, 7, 8], "color": "#F44336"},
+        {"group": 3, "label_en": "material phrase", "label_zh": "材料短语", "label_vi": "cum tu chat lieu", "word_indices": [9, 10, 11, 12, 13, 14], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Visitors who touch the artworks will be asked to leave the gallery immediately.",
+      "translation_zh": "触摸艺术品的参观者将被要求立即离开画廊。",
+      "translation_vi": "Khach tham quan cham vao tac pham nghe thuat se bi yeu cau roi khoi phong trung bay ngay lap tuc.",
+      "words": [
+        {"word": "Visitors", "ipa": "/ˈvɪzɪtərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "who", "ipa": "/huː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 1, "group_color": "#9C27B0"},
+        {"word": "touch", "ipa": "/tʌtʃ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "artworks", "ipa": "/ˈɑːrtwɜːrks/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "will", "ipa": "/wɪl/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "be", "ipa": "/biː/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "asked", "ipa": "/ɑːskt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "particle", "role_zh": "小品词", "role_vi": "tieu tu", "group": 3, "group_color": "#00BCD4"},
+        {"word": "leave", "ipa": "/liːv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 3, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "gallery", "ipa": "/ˈɡæləri/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "immediately", "ipa": "/ɪˈmiːdiətli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [1, 2, 3, 4], "color": "#9C27B0"},
+        {"group": 2, "label_en": "passive predicate", "label_zh": "被动谓语", "label_vi": "vi ngu bi dong", "word_indices": [5, 6, 7], "color": "#F44336"},
+        {"group": 3, "label_en": "infinitive complement", "label_zh": "不定式补语", "label_vi": "bo ngu bat dinh", "word_indices": [8, 9, 10, 11, 12], "color": "#00BCD4"}
+      ]
+    },
+    {
+      "index": 4,
+      "text": "The exhibition which featured contemporary art attracted thousands of visitors.",
+      "translation_zh": "以当代艺术为特色的展览吸引了数千名参观者。",
+      "translation_vi": "Trien lam gioi thieu nghe thuat duong dai da thu hut hang nghin khach tham quan.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "exhibition", "ipa": "/ˌɛksɪˈbɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "which", "ipa": "/wɪtʃ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 1, "group_color": "#9C27B0"},
+        {"word": "featured", "ipa": "/ˈfiːtʃərd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "contemporary", "ipa": "/kənˈtɛmpərɛri/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "art", "ipa": "/ɑːrt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "attracted", "ipa": "/əˈtræktɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "thousands", "ipa": "/ˈθaʊzəndz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "visitors", "ipa": "/ˈvɪzɪtərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [2, 3, 4, 5], "color": "#9C27B0"},
+        {"group": 2, "label_en": "predicate + object", "label_zh": "谓语+宾语", "label_vi": "vi ngu + tan ngu", "word_indices": [6, 7, 8, 9], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 5,
+      "text": "She said that the colours in the portrait reminded her of a sunset.",
+      "translation_zh": "她说肖像画中的色彩让她想起了日落。",
+      "translation_vi": "Co ay noi rang mau sac trong buc chan dung lam co ay nho den hoang hon.",
+      "words": [
+        {"word": "She", "ipa": "/ʃiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "said", "ipa": "/sɛd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "colours", "ipa": "/ˈkʌlərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "portrait", "ipa": "/ˈpɔːrtrɪt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "reminded", "ipa": "/rɪˈmaɪndɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "her", "ipa": "/hɜːr/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "sunset", "ipa": "/ˈsʌnsɛt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "reported clause subject", "label_zh": "宾语从句主语", "label_vi": "chu ngu menh de tuong thuat", "word_indices": [2, 3, 4, 5, 6, 7], "color": "#E91E63"},
+        {"group": 2, "label_en": "predicate + object", "label_zh": "谓语+宾语", "label_vi": "vi ngu + tan ngu", "word_indices": [8, 9, 10, 11, 12], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 6,
+      "text": "The museum where the ancient artefacts are displayed is open every day except Monday.",
+      "translation_zh": "展示古代文物的博物馆每天开放，周一除外。",
+      "translation_vi": "Bao tang noi trung bay co vat co mo cua moi ngay tru thu Hai.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "museum", "ipa": "/mjuˈziːəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "where", "ipa": "/wɛr/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "relative adverb", "role_zh": "关系副词", "role_vi": "trang tu quan he", "group": 1, "group_color": "#4CAF50"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "ancient", "ipa": "/ˈeɪnʃənt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "artefacts", "ipa": "/ˈɑːrtɪfækts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "are", "ipa": "/ɑːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "displayed", "ipa": "/dɪˈspleɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "open", "ipa": "/ˈoʊpən/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "every", "ipa": "/ˈɛvri/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "day", "ipa": "/deɪ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "except", "ipa": "/ɪkˈsɛpt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "Monday", "ipa": "/ˈmʌndeɪ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [2, 3, 4, 5, 6, 7], "color": "#4CAF50"},
+        {"group": 2, "label_en": "predicate + complement", "label_zh": "谓语+表语", "label_vi": "vi ngu + bo ngu", "word_indices": [8, 9], "color": "#F44336"},
+        {"group": 3, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [10, 11, 12, 13], "color": "#3F51B5"}
+      ]
+    },
+    {
+      "index": 7,
+      "text": "I wish I could paint as beautifully as the artists whose work I admire.",
+      "translation_zh": "我希望我能画得和我欣赏的那些艺术家一样美。",
+      "translation_vi": "Toi uoc toi co the ve dep nhu nhung nghe si ma toi nguong mo.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "wish", "ipa": "/wɪʃ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "could", "ipa": "/kʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "paint", "ipa": "/peɪnt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "as", "ipa": "/æz/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "beautifully", "ipa": "/ˈbjuːtɪfəli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "as", "ipa": "/æz/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 2, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "artists", "ipa": "/ˈɑːrtɪsts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "whose", "ipa": "/huːz/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 3, "group_color": "#9C27B0"},
+        {"word": "work", "ipa": "/wɜːrk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 3, "group_color": "#9C27B0"},
+        {"word": "admire", "ipa": "/ədˈmaɪər/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 3, "group_color": "#F44336"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "subjunctive clause", "label_zh": "虚拟从句", "label_vi": "menh de gia dinh", "word_indices": [2, 3, 4, 5, 6], "color": "#F44336"},
+        {"group": 2, "label_en": "comparison phrase", "label_zh": "比较短语", "label_vi": "cum tu so sanh", "word_indices": [7, 8, 9], "color": "#E91E63"},
+        {"group": 3, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [10, 11, 12, 13], "color": "#9C27B0"}
+      ]
+    },
+    {
+      "index": 8,
+      "text": "It is estimated that the painting is worth over fifty million dollars.",
+      "translation_zh": "据估计这幅画价值超过五千万美元。",
+      "translation_vi": "Nguoi ta uoc tinh buc tranh co gia tri hon nam muoi trieu do la.",
+      "words": [
+        {"word": "It", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "formal subject", "role_zh": "形式主语", "role_vi": "chu ngu hinh thuc", "group": 0, "group_color": "#9C27B0"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "estimated", "ipa": "/ˈɛstɪmeɪtɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "painting", "ipa": "/ˈpeɪntɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "worth", "ipa": "/wɜːrθ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "over", "ipa": "/ˈoʊvər/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "fifty", "ipa": "/ˈfɪfti/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "million", "ipa": "/ˈmɪljən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "dollars", "ipa": "/ˈdɒlərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "impersonal passive", "label_zh": "无人称被动", "label_vi": "bi dong vo nhan xung", "word_indices": [0, 1, 2], "color": "#F44336"},
+        {"group": 1, "label_en": "noun clause subject", "label_zh": "名词从句主语", "label_vi": "chu ngu menh de danh tu", "word_indices": [3, 4, 5], "color": "#E91E63"},
+        {"group": 2, "label_en": "predicate + value", "label_zh": "谓语+价值", "label_vi": "vi ngu + gia tri", "word_indices": [6, 7, 8, 9, 10, 11], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 9,
+      "text": "The mural on the building was painted by local artists to celebrate their heritage.",
+      "translation_zh": "建筑上的壁画是由当地艺术家绘制的，以庆祝他们的文化遗产。",
+      "translation_vi": "Buc tranh tuong tren toa nha duoc ve boi cac nghe si dia phuong de ton vinh di san.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "mural", "ipa": "/ˈmjʊərəl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "on", "ipa": "/ɒn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "building", "ipa": "/ˈbɪldɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "was", "ipa": "/wɒz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "painted", "ipa": "/ˈpeɪntɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "by", "ipa": "/baɪ/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "agent marker", "role_zh": "施事标记", "role_vi": "gioi tu chi tac nhan", "group": 2, "group_color": "#607D8B"},
+        {"word": "local", "ipa": "/ˈloʊkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "artists", "ipa": "/ˈɑːrtɪsts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "agent", "role_zh": "施事", "role_vi": "tac nhan", "group": 2, "group_color": "#2196F3"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "particle", "role_zh": "小品词", "role_vi": "tieu tu", "group": 3, "group_color": "#00BCD4"},
+        {"word": "celebrate", "ipa": "/ˈsɛlɪbreɪt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 3, "group_color": "#F44336"},
+        {"word": "their", "ipa": "/ðɛr/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#9C27B0"},
+        {"word": "heritage", "ipa": "/ˈhɛrɪtɪdʒ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject phrase", "label_zh": "主语短语", "label_vi": "cum chu ngu", "word_indices": [0, 1, 2, 3, 4], "color": "#2196F3"},
+        {"group": 1, "label_en": "passive predicate", "label_zh": "被动谓语", "label_vi": "vi ngu bi dong", "word_indices": [5, 6], "color": "#F44336"},
+        {"group": 2, "label_en": "agent phrase", "label_zh": "施事短语", "label_vi": "cum tu tac nhan", "word_indices": [7, 8, 9], "color": "#607D8B"},
+        {"group": 3, "label_en": "purpose infinitive", "label_zh": "目的不定式", "label_vi": "bat dinh muc dich", "word_indices": [10, 11, 12, 13], "color": "#00BCD4"}
+      ]
+    },
+    {
+      "index": 10,
+      "text": "Although modern art can be confusing, I find it fascinating and thought-provoking.",
+      "translation_zh": "虽然现代艺术可能令人困惑，但我觉得它既迷人又发人深省。",
+      "translation_vi": "Mac du nghe thuat hien dai co the gay kho hieu, toi thay no hap dan va goi mo suy nghi.",
+      "words": [
+        {"word": "Although", "ipa": "/ɔːlˈðoʊ/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 0, "group_color": "#E91E63"},
+        {"word": "modern", "ipa": "/ˈmɒdərn/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "art", "ipa": "/ɑːrt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "can", "ipa": "/kæn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "be", "ipa": "/biː/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "confusing", "ipa": "/kənˈfjuːzɪŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "find", "ipa": "/faɪnd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "it", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "fascinating", "ipa": "/ˈfæsɪneɪtɪŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "补语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 2, "group_color": "#E91E63"},
+        {"word": "thought-provoking", "ipa": "/ˈθɔːt prəˌvoʊkɪŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "补语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "concessive clause", "label_zh": "让步从句", "label_vi": "menh de nhuong bo", "word_indices": [0, 1, 2, 3, 4, 5], "color": "#E91E63"},
+        {"group": 1, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [6, 7, 8], "color": "#F44336"},
+        {"group": 2, "label_en": "complement", "label_zh": "补语", "label_vi": "bo ngu", "word_indices": [9, 10, 11], "color": "#FF9800"}
+      ]
+    },
+    {
+      "index": 11,
+      "text": "The curator told us that the collection had been assembled over several decades.",
+      "translation_zh": "策展人告诉我们这个收藏是在几十年间汇集而成的。",
+      "translation_vi": "Nguoi phu trach noi voi chung toi rang bo suu tap da duoc tap hop trong nhieu thap ky.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "curator", "ipa": "/kjʊˈreɪtər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "told", "ipa": "/toʊld/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "us", "ipa": "/ʌs/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "indirect object", "role_zh": "间接宾语", "role_vi": "tan ngu gian tiep", "group": 0, "group_color": "#9C27B0"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "collection", "ipa": "/kəˈlɛkʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "had", "ipa": "/hæd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "been", "ipa": "/biːn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "assembled", "ipa": "/əˈsɛmbəld/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "over", "ipa": "/ˈoʊvər/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "several", "ipa": "/ˈsɛvərəl/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "decades", "ipa": "/ˈdɛkeɪdz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2, 3], "color": "#F44336"},
+        {"group": 1, "label_en": "reported clause subject", "label_zh": "宾语从句主语", "label_vi": "chu ngu menh de tuong thuat", "word_indices": [4, 5, 6], "color": "#E91E63"},
+        {"group": 2, "label_en": "passive perfect predicate", "label_zh": "被动完成谓语", "label_vi": "vi ngu bi dong hoan thanh", "word_indices": [7, 8, 9], "color": "#F44336"},
+        {"group": 3, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [10, 11, 12], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 12,
+      "text": "The pottery that was discovered in the ruins dates back to the Bronze Age.",
+      "translation_zh": "在废墟中发现的陶器可以追溯到青铜时代。",
+      "translation_vi": "Do gom duoc phat hien trong di tich co nien dai tu thoi dai Do Dong.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "pottery", "ipa": "/ˈpɒtəri/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 1, "group_color": "#9C27B0"},
+        {"word": "was", "ipa": "/wɒz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "discovered", "ipa": "/dɪsˈkʌvərd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "ruins", "ipa": "/ˈruːɪnz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "dates", "ipa": "/deɪts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "back", "ipa": "/bæk/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "to", "ipa": "/tuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "Bronze", "ipa": "/brɒnz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "Age", "ipa": "/eɪdʒ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [2, 3, 4, 5, 6, 7], "color": "#9C27B0"},
+        {"group": 2, "label_en": "predicate + time phrase", "label_zh": "谓语+时间短语", "label_vi": "vi ngu + cum thoi gian", "word_indices": [8, 9, 10, 11, 12, 13], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 13,
+      "text": "He asked me whether I had ever visited the national art gallery before.",
+      "translation_zh": "他问我以前是否参观过国家美术馆。",
+      "translation_vi": "Anh ay hoi toi lieu toi da bao gio tham quan phong trung bay nghe thuat quoc gia chua.",
+      "words": [
+        {"word": "He", "ipa": "/hiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "asked", "ipa": "/ɑːskt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "me", "ipa": "/miː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "whether", "ipa": "/ˈwɛðər/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "had", "ipa": "/hæd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "ever", "ipa": "/ˈɛvər/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "visited", "ipa": "/ˈvɪzɪtɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "national", "ipa": "/ˈnæʃənəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "art", "ipa": "/ɑːrt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "gallery", "ipa": "/ˈɡæləri/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "before", "ipa": "/bɪˈfɔːr/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1, 2], "color": "#F44336"},
+        {"group": 1, "label_en": "reported question", "label_zh": "间接疑问句", "label_vi": "cau hoi gian tiep", "word_indices": [3, 4, 5, 6, 7], "color": "#E91E63"},
+        {"group": 2, "label_en": "object + adverbial", "label_zh": "宾语+状语", "label_vi": "tan ngu + trang ngu", "word_indices": [8, 9, 10, 11, 12], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 14,
+      "text": "The skills that are needed to restore old paintings take many years to develop.",
+      "translation_zh": "修复古画所需的技能需要很多年才能培养。",
+      "translation_vi": "Nhung ky nang can thiet de phuc che tranh cu mat nhieu nam de phat trien.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "skills", "ipa": "/skɪlz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 1, "group_color": "#9C27B0"},
+        {"word": "are", "ipa": "/ɑːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "needed", "ipa": "/ˈniːdɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "particle", "role_zh": "小品词", "role_vi": "tieu tu", "group": 1, "group_color": "#00BCD4"},
+        {"word": "restore", "ipa": "/rɪˈstɔːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "old", "ipa": "/oʊld/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "paintings", "ipa": "/ˈpeɪntɪŋz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "take", "ipa": "/teɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "many", "ipa": "/ˈmɛni/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "years", "ipa": "/jɪərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "particle", "role_zh": "小品词", "role_vi": "tieu tu", "group": 3, "group_color": "#00BCD4"},
+        {"word": "develop", "ipa": "/dɪˈvɛləp/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 3, "group_color": "#F44336"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [2, 3, 4, 5, 6, 7, 8], "color": "#9C27B0"},
+        {"group": 2, "label_en": "predicate + object", "label_zh": "谓语+宾语", "label_vi": "vi ngu + tan ngu", "word_indices": [9, 10, 11], "color": "#F44336"},
+        {"group": 3, "label_en": "infinitive purpose", "label_zh": "不定式目的", "label_vi": "bat dinh muc dich", "word_indices": [12, 13], "color": "#00BCD4"}
+      ]
+    },
+    {
+      "index": 15,
+      "text": "If the weather is fine tomorrow, we should visit the outdoor sculpture garden.",
+      "translation_zh": "如果明天天气好的话，我们应该去参观户外雕塑花园。",
+      "translation_vi": "Neu ngay mai thoi tiet dep, chung ta nen tham vuon tuong ngoai troi.",
+      "words": [
+        {"word": "If", "ipa": "/ɪf/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 0, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "weather", "ipa": "/ˈwɛðər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "fine", "ipa": "/faɪn/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "tomorrow", "ipa": "/təˈmɒroʊ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 0, "group_color": "#4CAF50"},
+        {"word": "we", "ipa": "/wiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "should", "ipa": "/ʃʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "visit", "ipa": "/ˈvɪzɪt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "outdoor", "ipa": "/ˈaʊtdɔːr/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "sculpture", "ipa": "/ˈskʌlptʃər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "garden", "ipa": "/ˈɡɑːrdən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "conditional clause", "label_zh": "条件从句", "label_vi": "menh de dieu kien", "word_indices": [0, 1, 2, 3, 4, 5], "color": "#E91E63"},
+        {"group": 1, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [6, 7, 8], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [9, 10, 11, 12], "color": "#2196F3"}
+      ]
+    }
+  ]
+}

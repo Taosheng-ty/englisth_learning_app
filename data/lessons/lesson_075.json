@@ -1,0 +1,412 @@
+{
+  "id": 75,
+  "title": "Music",
+  "title_zh": "音乐",
+  "title_vi": "Am nhac",
+  "difficulty": "B1",
+  "category": "culture",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "The song that she performed at the concert was written by a local artist.",
+      "translation_zh": "她在音乐会上表演的那首歌是由一位本地艺术家写的。",
+      "translation_vi": "Bai hat ma co ay trinh dien tai buoi hoa nhac duoc viet boi mot nghe si dia phuong.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "song", "ipa": "/sɒŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 1, "group_color": "#9C27B0"},
+        {"word": "she", "ipa": "/ʃiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "performed", "ipa": "/pərˈfɔːrmd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "at", "ipa": "/æt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "concert", "ipa": "/ˈkɒnsərt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "was", "ipa": "/wɒz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "written", "ipa": "/ˈrɪtən/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "by", "ipa": "/baɪ/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "agent marker", "role_zh": "施事标记", "role_vi": "gioi tu chi tac nhan", "group": 3, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "local", "ipa": "/ˈloʊkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "artist", "ipa": "/ˈɑːrtɪst/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "agent", "role_zh": "施事", "role_vi": "tac nhan", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [2, 3, 4, 5, 6, 7], "color": "#9C27B0"},
+        {"group": 2, "label_en": "passive predicate", "label_zh": "被动谓语", "label_vi": "vi ngu bi dong", "word_indices": [8, 9], "color": "#F44336"},
+        {"group": 3, "label_en": "agent phrase", "label_zh": "施事短语", "label_vi": "cum tu tac nhan", "word_indices": [10, 11, 12, 13], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 2,
+      "text": "It is said that classical music can improve concentration and reduce stress.",
+      "translation_zh": "据说古典音乐可以提高注意力并减轻压力。",
+      "translation_vi": "Nguoi ta noi rang nhac co dien co the cai thien su tap trung va giam cang thang.",
+      "words": [
+        {"word": "It", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "formal subject", "role_zh": "形式主语", "role_vi": "chu ngu hinh thuc", "group": 0, "group_color": "#9C27B0"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "said", "ipa": "/sɛd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "classical", "ipa": "/ˈklæsɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "music", "ipa": "/ˈmjuːzɪk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "can", "ipa": "/kæn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "improve", "ipa": "/ɪmˈpruːv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "concentration", "ipa": "/ˌkɒnsənˈtreɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 3, "group_color": "#E91E63"},
+        {"word": "reduce", "ipa": "/rɪˈdjuːs/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 3, "group_color": "#F44336"},
+        {"word": "stress", "ipa": "/strɛs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "impersonal passive", "label_zh": "无人称被动", "label_vi": "bi dong vo nhan xung", "word_indices": [0, 1, 2], "color": "#F44336"},
+        {"group": 1, "label_en": "noun clause subject", "label_zh": "名词从句主语", "label_vi": "chu ngu menh de danh tu", "word_indices": [3, 4, 5], "color": "#E91E63"},
+        {"group": 2, "label_en": "first predicate + object", "label_zh": "第一谓语+宾语", "label_vi": "vi ngu thu nhat + tan ngu", "word_indices": [6, 7, 8], "color": "#F44336"},
+        {"group": 3, "label_en": "second predicate + object", "label_zh": "第二谓语+宾语", "label_vi": "vi ngu thu hai + tan ngu", "word_indices": [9, 10, 11], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 3,
+      "text": "The band whose album topped the charts is coming to our city next month.",
+      "translation_zh": "那支专辑登上排行榜首位的乐队下个月要来我们的城市。",
+      "translation_vi": "Ban nhac co album dung dau bang xep hang se den thanh pho cua chung toi vao thang sau.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "band", "ipa": "/bænd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "whose", "ipa": "/huːz/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 1, "group_color": "#9C27B0"},
+        {"word": "album", "ipa": "/ˈælbəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "topped", "ipa": "/tɒpt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "charts", "ipa": "/tʃɑːrts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "coming", "ipa": "/ˈkʌmɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "our", "ipa": "/aʊər/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#9C27B0"},
+        {"word": "city", "ipa": "/ˈsɪti/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "next", "ipa": "/nɛkst/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 4, "group_color": "#FF9800"},
+        {"word": "month", "ipa": "/mʌnθ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 4, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [2, 3, 4, 5, 6], "color": "#9C27B0"},
+        {"group": 2, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [7, 8], "color": "#F44336"},
+        {"group": 3, "label_en": "destination phrase", "label_zh": "目的地短语", "label_vi": "cum tu diem den", "word_indices": [9, 10, 11], "color": "#607D8B"},
+        {"group": 4, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [12, 13], "color": "#FF9800"}
+      ]
+    },
+    {
+      "index": 4,
+      "text": "She was taught to play the piano by her grandmother when she was young.",
+      "translation_zh": "她小时候由祖母教她弹钢琴。",
+      "translation_vi": "Co ay duoc ba day choi piano khi co ay con nho.",
+      "words": [
+        {"word": "She", "ipa": "/ʃiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "was", "ipa": "/wɒz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "taught", "ipa": "/tɔːt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "particle", "role_zh": "小品词", "role_vi": "tieu tu", "group": 1, "group_color": "#00BCD4"},
+        {"word": "play", "ipa": "/pleɪ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "piano", "ipa": "/piˈænoʊ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "by", "ipa": "/baɪ/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "agent marker", "role_zh": "施事标记", "role_vi": "gioi tu chi tac nhan", "group": 2, "group_color": "#607D8B"},
+        {"word": "her", "ipa": "/hɜːr/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "grandmother", "ipa": "/ˈɡrænˌmʌðər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "agent", "role_zh": "施事", "role_vi": "tac nhan", "group": 2, "group_color": "#2196F3"},
+        {"word": "when", "ipa": "/wɛn/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 3, "group_color": "#E91E63"},
+        {"word": "she", "ipa": "/ʃiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 3, "group_color": "#9C27B0"},
+        {"word": "was", "ipa": "/wɒz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 3, "group_color": "#F44336"},
+        {"word": "young", "ipa": "/jʌŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 3, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "passive main clause", "label_zh": "被动主句", "label_vi": "menh de chinh bi dong", "word_indices": [0, 1, 2], "color": "#F44336"},
+        {"group": 1, "label_en": "infinitive complement", "label_zh": "不定式补语", "label_vi": "bo ngu bat dinh", "word_indices": [3, 4, 5, 6], "color": "#00BCD4"},
+        {"group": 2, "label_en": "agent phrase", "label_zh": "施事短语", "label_vi": "cum tu tac nhan", "word_indices": [7, 8, 9], "color": "#607D8B"},
+        {"group": 3, "label_en": "time clause", "label_zh": "时间从句", "label_vi": "menh de thoi gian", "word_indices": [10, 11, 12, 13], "color": "#E91E63"}
+      ]
+    },
+    {
+      "index": 5,
+      "text": "I have been listening to jazz since I discovered it in college.",
+      "translation_zh": "自从我在大学发现爵士乐以来，我一直在听。",
+      "translation_vi": "Toi da nghe nhac jazz tu khi toi kham pha no o dai hoc.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "been", "ipa": "/biːn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "listening", "ipa": "/ˈlɪsənɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#607D8B"},
+        {"word": "jazz", "ipa": "/dʒæz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "since", "ipa": "/sɪns/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 2, "group_color": "#E91E63"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "discovered", "ipa": "/dɪsˈkʌvərd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "it", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "college", "ipa": "/ˈkɒlɪdʒ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject + continuous predicate", "label_zh": "主语+持续谓语", "label_vi": "chu ngu + vi ngu tiep dien", "word_indices": [0, 1, 2, 3], "color": "#F44336"},
+        {"group": 1, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [4, 5], "color": "#2196F3"},
+        {"group": 2, "label_en": "time clause", "label_zh": "时间从句", "label_vi": "menh de thoi gian", "word_indices": [6, 7, 8, 9], "color": "#E91E63"},
+        {"group": 3, "label_en": "place adverbial", "label_zh": "地点状语", "label_vi": "trang ngu noi chon", "word_indices": [10, 11], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 6,
+      "text": "The lyrics of the song were inspired by the poet's journey through Asia.",
+      "translation_zh": "这首歌的歌词灵感来自于这位诗人穿越亚洲的旅程。",
+      "translation_vi": "Loi bai hat duoc lay cam hung tu cuoc hanh trinh qua chau A cua nha tho.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "lyrics", "ipa": "/ˈlɪrɪks/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "song", "ipa": "/sɒŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "were", "ipa": "/wɜːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "inspired", "ipa": "/ɪnˈspaɪərd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "by", "ipa": "/baɪ/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "agent marker", "role_zh": "施事标记", "role_vi": "gioi tu chi tac nhan", "group": 2, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "poet's", "ipa": "/ˈpoʊɪts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "journey", "ipa": "/ˈdʒɜːrni/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "agent", "role_zh": "施事", "role_vi": "tac nhan", "group": 2, "group_color": "#2196F3"},
+        {"word": "through", "ipa": "/θruː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "Asia", "ipa": "/ˈeɪʒə/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject phrase", "label_zh": "主语短语", "label_vi": "cum chu ngu", "word_indices": [0, 1, 2, 3, 4], "color": "#2196F3"},
+        {"group": 1, "label_en": "passive predicate", "label_zh": "被动谓语", "label_vi": "vi ngu bi dong", "word_indices": [5, 6], "color": "#F44336"},
+        {"group": 2, "label_en": "agent phrase", "label_zh": "施事短语", "label_vi": "cum tu tac nhan", "word_indices": [7, 8, 9, 10], "color": "#607D8B"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [11, 12], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 7,
+      "text": "He asked whether I would like to attend the music festival with him.",
+      "translation_zh": "他问我是否愿意和他一起参加音乐节。",
+      "translation_vi": "Anh ay hoi lieu toi co muon tham du le hoi am nhac cung anh ay khong.",
+      "words": [
+        {"word": "He", "ipa": "/hiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "asked", "ipa": "/ɑːskt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "whether", "ipa": "/ˈwɛðər/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "would", "ipa": "/wʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "like", "ipa": "/laɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "particle", "role_zh": "小品词", "role_vi": "tieu tu", "group": 2, "group_color": "#00BCD4"},
+        {"word": "attend", "ipa": "/əˈtɛnd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "music", "ipa": "/ˈmjuːzɪk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "festival", "ipa": "/ˈfɛstɪvəl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "with", "ipa": "/wɪð/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "him", "ipa": "/hɪm/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#9C27B0"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "reported question", "label_zh": "间接疑问句", "label_vi": "cau hoi gian tiep", "word_indices": [2, 3, 4, 5], "color": "#E91E63"},
+        {"group": 2, "label_en": "infinitive + object", "label_zh": "不定式+宾语", "label_vi": "bat dinh + tan ngu", "word_indices": [6, 7, 8, 9, 10], "color": "#00BCD4"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [11, 12], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 8,
+      "text": "Although I enjoy pop music, I think that folk songs have deeper meanings.",
+      "translation_zh": "虽然我喜欢流行音乐，但我认为民歌有更深层的含义。",
+      "translation_vi": "Mac du toi thich nhac pop, toi nghi rang nhac dan gian co y nghia sau sac hon.",
+      "words": [
+        {"word": "Although", "ipa": "/ɔːlˈðoʊ/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 0, "group_color": "#E91E63"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "enjoy", "ipa": "/ɪnˈdʒɔɪ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "pop", "ipa": "/pɒp/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "music", "ipa": "/ˈmjuːzɪk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "think", "ipa": "/θɪŋk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 2, "group_color": "#E91E63"},
+        {"word": "folk", "ipa": "/foʊk/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "songs", "ipa": "/sɒŋz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "deeper", "ipa": "/ˈdiːpər/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "meanings", "ipa": "/ˈmiːnɪŋz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "concessive clause", "label_zh": "让步从句", "label_vi": "menh de nhuong bo", "word_indices": [0, 1, 2, 3, 4], "color": "#E91E63"},
+        {"group": 1, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [5, 6], "color": "#F44336"},
+        {"group": 2, "label_en": "noun clause", "label_zh": "名词从句", "label_vi": "menh de danh tu", "word_indices": [7, 8, 9, 10, 11, 12], "color": "#E91E63"}
+      ]
+    },
+    {
+      "index": 9,
+      "text": "The musician who won the Grammy has released a new single this week.",
+      "translation_zh": "获得格莱美奖的那位音乐家本周发布了一首新单曲。",
+      "translation_vi": "Nhac si gianh giai Grammy da phat hanh mot dia don moi trong tuan nay.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "musician", "ipa": "/mjuˈzɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "who", "ipa": "/huː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 1, "group_color": "#9C27B0"},
+        {"word": "won", "ipa": "/wʌn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "Grammy", "ipa": "/ˈɡræmi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "has", "ipa": "/hæz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "released", "ipa": "/rɪˈliːst/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "new", "ipa": "/njuː/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "single", "ipa": "/ˈsɪŋɡəl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "this", "ipa": "/ðɪs/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 4, "group_color": "#3F51B5"},
+        {"word": "week", "ipa": "/wiːk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 4, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [2, 3, 4, 5], "color": "#9C27B0"},
+        {"group": 2, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [6, 7], "color": "#F44336"},
+        {"group": 3, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [8, 9, 10], "color": "#2196F3"},
+        {"group": 4, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [11, 12], "color": "#3F51B5"}
+      ]
+    },
+    {
+      "index": 10,
+      "text": "The rhythm of the drums echoed through the valley where the ceremony was held.",
+      "translation_zh": "鼓的节奏回荡在举行仪式的山谷中。",
+      "translation_vi": "Nhip trong vang vong khap thung lung noi buoi le duoc to chuc.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "rhythm", "ipa": "/ˈrɪðəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "drums", "ipa": "/drʌmz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "echoed", "ipa": "/ˈɛkoʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "through", "ipa": "/θruː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "valley", "ipa": "/ˈvæli/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "where", "ipa": "/wɛr/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "relative adverb", "role_zh": "关系副词", "role_vi": "trang tu quan he", "group": 2, "group_color": "#4CAF50"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "ceremony", "ipa": "/ˈsɛrəˌmoʊni/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "was", "ipa": "/wɒz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "held", "ipa": "/hɛld/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject phrase", "label_zh": "主语短语", "label_vi": "cum chu ngu", "word_indices": [0, 1, 2, 3, 4], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate + place", "label_zh": "谓语+地点", "label_vi": "vi ngu + noi chon", "word_indices": [5, 6, 7, 8], "color": "#F44336"},
+        {"group": 2, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [9, 10, 11, 12, 13], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 11,
+      "text": "Many traditional instruments are being replaced by electronic synthesizers nowadays.",
+      "translation_zh": "如今许多传统乐器正在被电子合成器所取代。",
+      "translation_vi": "Ngay nay nhieu nhac cu truyen thong dang bi thay the boi cac may tong hop dien tu.",
+      "words": [
+        {"word": "Many", "ipa": "/ˈmɛni/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "traditional", "ipa": "/trəˈdɪʃənəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "instruments", "ipa": "/ˈɪnstrəmənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "are", "ipa": "/ɑːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "being", "ipa": "/ˈbiːɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "replaced", "ipa": "/rɪˈpleɪst/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "by", "ipa": "/baɪ/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "agent marker", "role_zh": "施事标记", "role_vi": "gioi tu chi tac nhan", "group": 2, "group_color": "#607D8B"},
+        {"word": "electronic", "ipa": "/ˌɛlɛkˈtrɒnɪk/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "synthesizers", "ipa": "/ˈsɪnθəˌsaɪzərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "agent", "role_zh": "施事", "role_vi": "tac nhan", "group": 2, "group_color": "#2196F3"},
+        {"word": "nowadays", "ipa": "/ˈnaʊəˌdeɪz/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "passive progressive predicate", "label_zh": "被动进行谓语", "label_vi": "vi ngu bi dong tien hanh", "word_indices": [3, 4, 5], "color": "#F44336"},
+        {"group": 2, "label_en": "agent phrase", "label_zh": "施事短语", "label_vi": "cum tu tac nhan", "word_indices": [6, 7, 8], "color": "#607D8B"},
+        {"group": 3, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [9], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 12,
+      "text": "The choir performed so beautifully that the audience gave them a standing ovation.",
+      "translation_zh": "合唱团表演得如此优美，以至于观众起立鼓掌。",
+      "translation_vi": "Dan hop xuong trinh dien dep den muc khan gia dung day vo tay.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "choir", "ipa": "/ˈkwaɪər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "performed", "ipa": "/pərˈfɔːrmd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "so", "ipa": "/soʊ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "beautifully", "ipa": "/ˈbjuːtɪfəli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 2, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "audience", "ipa": "/ˈɔːdiəns/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "gave", "ipa": "/ɡeɪv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "them", "ipa": "/ðɛm/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "indirect object", "role_zh": "间接宾语", "role_vi": "tan ngu gian tiep", "group": 3, "group_color": "#9C27B0"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "standing", "ipa": "/ˈstændɪŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "ovation", "ipa": "/oʊˈveɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject + predicate", "label_zh": "主语+谓语", "label_vi": "chu ngu + vi ngu", "word_indices": [0, 1, 2], "color": "#F44336"},
+        {"group": 1, "label_en": "degree adverbial", "label_zh": "程度状语", "label_vi": "trang ngu muc do", "word_indices": [3, 4], "color": "#4CAF50"},
+        {"group": 2, "label_en": "result clause", "label_zh": "结果从句", "label_vi": "menh de ket qua", "word_indices": [5, 6, 7, 8], "color": "#E91E63"},
+        {"group": 3, "label_en": "indirect + direct object", "label_zh": "间接宾语+直接宾语", "label_vi": "tan ngu gian tiep + tan ngu truc tiep", "word_indices": [9, 10, 11, 12], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 13,
+      "text": "He mentioned that the concert tickets had already been sold out.",
+      "translation_zh": "他提到音乐会的票已经售罄了。",
+      "translation_vi": "Anh ay noi rang ve buoi hoa nhac da ban het roi.",
+      "words": [
+        {"word": "He", "ipa": "/hiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "mentioned", "ipa": "/ˈmɛnʃənd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 1, "group_color": "#E91E63"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "concert", "ipa": "/ˈkɒnsərt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "tickets", "ipa": "/ˈtɪkɪts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "had", "ipa": "/hæd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "already", "ipa": "/ɔːlˈrɛdi/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "been", "ipa": "/biːn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 2, "group_color": "#F44336"},
+        {"word": "sold", "ipa": "/soʊld/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "out", "ipa": "/aʊt/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "particle", "role_zh": "小品词", "role_vi": "tieu tu", "group": 2, "group_color": "#00BCD4"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [0, 1], "color": "#F44336"},
+        {"group": 1, "label_en": "reported clause subject", "label_zh": "宾语从句主语", "label_vi": "chu ngu menh de tuong thuat", "word_indices": [2, 3, 4, 5], "color": "#E91E63"},
+        {"group": 2, "label_en": "passive perfect predicate", "label_zh": "被动完成谓语", "label_vi": "vi ngu bi dong hoan thanh", "word_indices": [6, 7, 8, 9, 10], "color": "#F44336"}
+      ]
+    },
+    {
+      "index": 14,
+      "text": "The playlist that my friend created helps me relax after a long day.",
+      "translation_zh": "我朋友创建的播放列表帮助我在漫长的一天后放松。",
+      "translation_vi": "Danh sach phat ma ban toi tao giup toi thu gian sau mot ngay dai.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "playlist", "ipa": "/ˈpleɪlɪst/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "relative pronoun", "role_zh": "关系代词", "role_vi": "dai tu quan he", "group": 1, "group_color": "#9C27B0"},
+        {"word": "my", "ipa": "/maɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "friend", "ipa": "/frɛnd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "created", "ipa": "/kriˈeɪtɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "helps", "ipa": "/hɛlps/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "me", "ipa": "/miː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "relax", "ipa": "/rɪˈlæks/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "complement", "role_zh": "补语", "role_vi": "bo ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "after", "ipa": "/ˈɑːftər/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "long", "ipa": "/lɒŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "day", "ipa": "/deɪ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "relative clause", "label_zh": "定语从句", "label_vi": "menh de quan he", "word_indices": [2, 3, 4, 5], "color": "#9C27B0"},
+        {"group": 2, "label_en": "predicate + complement", "label_zh": "谓语+补语", "label_vi": "vi ngu + bo ngu", "word_indices": [6, 7, 8], "color": "#F44336"},
+        {"group": 3, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [9, 10, 11, 12], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 15,
+      "text": "If I could play any instrument, I would choose the violin because it sounds elegant.",
+      "translation_zh": "如果我能演奏任何乐器，我会选择小提琴，因为它听起来很优雅。",
+      "translation_vi": "Neu toi co the choi bat ky nhac cu nao, toi se chon violin vi no nghe thanh lich.",
+      "words": [
+        {"word": "If", "ipa": "/ɪf/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 0, "group_color": "#E91E63"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "could", "ipa": "/kʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "play", "ipa": "/pleɪ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "any", "ipa": "/ˈɛni/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "instrument", "ipa": "/ˈɪnstrəmənt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "would", "ipa": "/wʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "choose", "ipa": "/tʃuːz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "violin", "ipa": "/ˌvaɪəˈlɪn/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "because", "ipa": "/bɪˈkɒz/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 2, "group_color": "#E91E63"},
+        {"word": "it", "ipa": "/ɪt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "sounds", "ipa": "/saʊndz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "elegant", "ipa": "/ˈɛlɪɡənt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "conditional clause", "label_zh": "条件从句", "label_vi": "menh de dieu kien", "word_indices": [0, 1, 2, 3, 4, 5], "color": "#E91E63"},
+        {"group": 1, "label_en": "main clause", "label_zh": "主句", "label_vi": "menh de chinh", "word_indices": [6, 7, 8, 9, 10], "color": "#F44336"},
+        {"group": 2, "label_en": "causal clause", "label_zh": "原因从句", "label_vi": "menh de nguyen nhan", "word_indices": [11, 12, 13, 14], "color": "#E91E63"}
+      ]
+    }
+  ]
+}

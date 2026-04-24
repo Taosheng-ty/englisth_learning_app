@@ -1,0 +1,310 @@
+{
+  "id": 65,
+  "title": "Hobbies",
+  "title_zh": "爱好",
+  "title_vi": "So thich",
+  "difficulty": "A2",
+  "category": "daily_conversation",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "What are your hobbies?",
+      "translation_zh": "你的爱好是什么？",
+      "translation_vi": "So thich cua ban la gi?",
+      "words": [
+        {"word": "What", "ipa": "/wɑːt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "are", "ipa": "/ɑːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "your", "ipa": "/jʊr/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 1, "group_color": "#3F51B5"},
+        {"word": "hobbies", "ipa": "/ˈhɑːbiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "question word + verb", "label_zh": "疑问词+动词", "label_vi": "tu hoi + dong tu", "word_indices": [0, 1], "color": "#9C27B0"},
+        {"group": 1, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [2, 3], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 2,
+      "text": "I enjoy painting in my free time.",
+      "translation_zh": "我在空闲时间喜欢画画。",
+      "translation_vi": "Toi thich ve trong thoi gian ranh.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "enjoy", "ipa": "/ɪnˈdʒɔɪ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "painting", "ipa": "/ˈpeɪntɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "my", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "free", "ipa": "/friː/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "time", "ipa": "/taɪm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate + object", "label_zh": "谓语+宾语", "label_vi": "vi ngu + tan ngu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [3, 4, 5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 3,
+      "text": "She plays the guitar very well.",
+      "translation_zh": "她吉他弹得很好。",
+      "translation_vi": "Co ay choi ghi ta rat gioi.",
+      "words": [
+        {"word": "She", "ipa": "/ʃiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "plays", "ipa": "/pleɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "guitar", "ipa": "/ɡɪˈtɑːr/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "very", "ipa": "/ˈvɛri/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"},
+        {"word": "well", "ipa": "/wɛl/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [2, 3], "color": "#2196F3"},
+        {"group": 3, "label_en": "manner adverb", "label_zh": "方式副词", "label_vi": "trang tu cach thuc", "word_indices": [4, 5], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 4,
+      "text": "I started learning photography last year.",
+      "translation_zh": "我去年开始学习摄影。",
+      "translation_vi": "Toi bat dau hoc nhiep anh nam ngoai.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "started", "ipa": "/ˈstɑːrtɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "learning", "ipa": "/ˈlɜːrnɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "photography", "ipa": "/fəˈtɑːɡrəfi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "last", "ipa": "/læst/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "year", "ipa": "/jɪr/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate + gerund", "label_zh": "谓语+动名词", "label_vi": "vi ngu + danh dong tu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3], "color": "#2196F3"},
+        {"group": 3, "label_en": "time phrase", "label_zh": "时间短语", "label_vi": "cum thoi gian", "word_indices": [4, 5], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 5,
+      "text": "Reading books helps me relax after work.",
+      "translation_zh": "读书帮助我在工作后放松。",
+      "translation_vi": "Doc sach giup toi thu gian sau gio lam.",
+      "words": [
+        {"word": "Reading", "ipa": "/ˈriːdɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#F44336"},
+        {"word": "books", "ipa": "/bʊks/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "helps", "ipa": "/hɛlps/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "me", "ipa": "/miː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#9C27B0"},
+        {"word": "relax", "ipa": "/rɪˈlæks/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "complement", "role_zh": "补语", "role_vi": "bo ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "after", "ipa": "/ˈæftər/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "work", "ipa": "/wɜːrk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "gerund subject", "label_zh": "动名词主语", "label_vi": "chu ngu danh dong tu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate + object + complement", "label_zh": "谓语+宾语+补语", "label_vi": "vi ngu + tan ngu + bo ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 6,
+      "text": "He collects stamps from different countries.",
+      "translation_zh": "他收集来自不同国家的邮票。",
+      "translation_vi": "Anh ay suu tam tem tu cac nuoc khac nhau.",
+      "words": [
+        {"word": "He", "ipa": "/hiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "collects", "ipa": "/kəˈlɛkts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "stamps", "ipa": "/stæmps/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "from", "ipa": "/frʌm/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "different", "ipa": "/ˈdɪfərənt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "countries", "ipa": "/ˈkʌntriz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [2], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [3, 4, 5], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 7,
+      "text": "I like to go hiking on weekends.",
+      "translation_zh": "我喜欢周末去远足。",
+      "translation_vi": "Toi thich di leo nui vao cuoi tuan.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "like", "ipa": "/laɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 1, "group_color": "#00BCD4"},
+        {"word": "go", "ipa": "/ɡoʊ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "hiking", "ipa": "/ˈhaɪkɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "on", "ipa": "/ɑːn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "weekends", "ipa": "/ˈwiːkɛndz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate + infinitive", "label_zh": "谓语+不定式", "label_vi": "vi ngu + dong tu nguyen mau", "word_indices": [1, 2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "time phrase", "label_zh": "时间短语", "label_vi": "cum thoi gian", "word_indices": [5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 8,
+      "text": "Cooking is one of my favorite activities.",
+      "translation_zh": "烹饪是我最喜欢的活动之一。",
+      "translation_vi": "Nau an la mot trong nhung hoat dong yeu thich cua toi.",
+      "words": [
+        {"word": "Cooking", "ipa": "/ˈkʊkɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "one", "ipa": "/wʌn/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "my", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "favorite", "ipa": "/ˈfeɪvərɪt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "activities", "ipa": "/ækˈtɪvɪtiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "complement phrase", "label_zh": "表语短语", "label_vi": "cum bo ngu", "word_indices": [2, 3, 4, 5, 6], "color": "#9C27B0"}
+      ]
+    },
+    {
+      "index": 9,
+      "text": "Do you play any musical instruments?",
+      "translation_zh": "你会演奏什么乐器吗？",
+      "translation_vi": "Ban co choi nhac cu nao khong?",
+      "words": [
+        {"word": "Do", "ipa": "/duː/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 0, "group_color": "#F44336"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "play", "ipa": "/pleɪ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "any", "ipa": "/ˈɛni/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "musical", "ipa": "/ˈmjuːzɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "instruments", "ipa": "/ˈɪnstrəmənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "auxiliary + subject", "label_zh": "助动词+主语", "label_vi": "tro dong tu + chu ngu", "word_indices": [0, 1], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [3, 4, 5], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 10,
+      "text": "I recently took up gardening as a hobby.",
+      "translation_zh": "我最近把园艺当作一个爱好。",
+      "translation_vi": "Gan day toi bat dau lam vuon nhu mot so thich.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "recently", "ipa": "/ˈriːsəntli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "took", "ipa": "/tʊk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "up", "ipa": "/ʌp/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "gardening", "ipa": "/ˈɡɑːrdənɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "as", "ipa": "/æz/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "hobby", "ipa": "/ˈhɑːbi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "adverb + phrasal verb", "label_zh": "副词+短语动词", "label_vi": "trang tu + dong tu cum", "word_indices": [1, 2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [4], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6, 7], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 11,
+      "text": "We enjoy playing board games together.",
+      "translation_zh": "我们喜欢一起玩桌游。",
+      "translation_vi": "Chung toi thich choi tro choi ban cung nhau.",
+      "words": [
+        {"word": "We", "ipa": "/wiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "enjoy", "ipa": "/ɪnˈdʒɔɪ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "playing", "ipa": "/ˈpleɪɪŋ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "board", "ipa": "/bɔːrd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "games", "ipa": "/ɡeɪmz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "together", "ipa": "/təˈɡɛðər/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate + gerund", "label_zh": "谓语+动名词", "label_vi": "vi ngu + danh dong tu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [3, 4], "color": "#2196F3"},
+        {"group": 3, "label_en": "adverb", "label_zh": "副词", "label_vi": "trang tu", "word_indices": [5], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 12,
+      "text": "My sister is really good at drawing.",
+      "translation_zh": "我姐姐画画真的很好。",
+      "translation_vi": "Chi gai toi rat gioi ve.",
+      "words": [
+        {"word": "My", "ipa": "/maɪ/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "sister", "ipa": "/ˈsɪstər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "really", "ipa": "/ˈriːəli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "good", "ipa": "/ɡʊd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 1, "group_color": "#FF9800"},
+        {"word": "at", "ipa": "/æt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#607D8B"},
+        {"word": "drawing", "ipa": "/ˈdrɔːɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate + complement", "label_zh": "谓语+表语", "label_vi": "vi ngu + bo ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 13,
+      "text": "I would like to try rock climbing someday.",
+      "translation_zh": "我想有一天尝试攀岩。",
+      "translation_vi": "Toi muon thu leo nui mot ngay nao do.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "would", "ipa": "/wʊd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "like", "ipa": "/laɪk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "infinitive", "role_zh": "不定式", "role_vi": "dong tu nguyen mau", "group": 2, "group_color": "#00BCD4"},
+        {"word": "try", "ipa": "/traɪ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "rock", "ipa": "/rɑːk/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "climbing", "ipa": "/ˈklaɪmɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "someday", "ipa": "/ˈsʌmdeɪ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "modal + verb", "label_zh": "情态动词+动词", "label_vi": "dong tu tinh thai + dong tu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "infinitive phrase", "label_zh": "不定式短语", "label_vi": "cum dong tu nguyen mau", "word_indices": [3, 4, 5, 6], "color": "#4CAF50"},
+        {"group": 3, "label_en": "time adverbial", "label_zh": "时间状语", "label_vi": "trang ngu thoi gian", "word_indices": [7], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 14,
+      "text": "Swimming is great exercise for the body.",
+      "translation_zh": "游泳是很好的身体锻炼。",
+      "translation_vi": "Boi loi la bai tap tuyet voi cho co the.",
+      "words": [
+        {"word": "Swimming", "ipa": "/ˈswɪmɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "is", "ipa": "/ɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "great", "ipa": "/ɡreɪt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "exercise", "ipa": "/ˈɛksərsaɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "for", "ipa": "/fɔːr/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "body", "ipa": "/ˈbɑːdi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "complement phrase", "label_zh": "表语短语", "label_vi": "cum bo ngu", "word_indices": [2, 3], "color": "#FF9800"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [4, 5, 6], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 15,
+      "text": "I find knitting very relaxing and peaceful.",
+      "translation_zh": "我觉得编织非常放松和平静。",
+      "translation_vi": "Toi thay dan len rat thu gian va binh yen.",
+      "words": [
+        {"word": "I", "ipa": "/aɪ/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#9C27B0"},
+        {"word": "find", "ipa": "/faɪnd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "knitting", "ipa": "/ˈnɪtɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "very", "ipa": "/ˈvɛri/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "relaxing", "ipa": "/rɪˈlæksɪŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "补语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "conjunction", "role_zh": "连词", "role_vi": "lien tu", "group": 2, "group_color": "#E91E63"},
+        {"word": "peaceful", "ipa": "/ˈpiːsfəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "complement", "role_zh": "补语", "role_vi": "bo ngu", "group": 2, "group_color": "#FF9800"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#9C27B0"},
+        {"group": 1, "label_en": "predicate + object", "label_zh": "谓语+宾语", "label_vi": "vi ngu + tan ngu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "complement phrase", "label_zh": "补语短语", "label_vi": "cum bo ngu", "word_indices": [3, 4, 5, 6], "color": "#FF9800"}
+      ]
+    }
+  ]
+}

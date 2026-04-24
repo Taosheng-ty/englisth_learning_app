@@ -1,0 +1,314 @@
+{
+  "id": 129,
+  "title": "History",
+  "title_zh": "历史",
+  "title_vi": "Lich su",
+  "difficulty": "B2",
+  "category": "academic",
+  "sentences": [
+    {
+      "index": 1, "text": "The Renaissance fundamentally transformed European intellectual and artistic traditions.",
+      "translation_zh": "文艺复兴从根本上改变了欧洲的知识和艺术传统。", "translation_vi": "Thoi Phuc Hung da thay doi can ban cac truyen thong tri thuc va nghe thuat chau Au.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "Renaissance", "ipa": "/ˈrɛnɪsɑːns/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "fundamentally", "ipa": "/ˌfʌndəˈmɛntəli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "transformed", "ipa": "/trænsˈfɔːrmd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "European", "ipa": "/ˌjʊərəˈpiːən/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "intellectual", "ipa": "/ˌɪntəˈlɛktʃuəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "artistic", "ipa": "/ɑːrˈtɪstɪk/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "traditions", "ipa": "/trəˈdɪʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate", "label_zh": "状语+谓语", "label_vi": "trang ngu + vi ngu", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "compound object", "label_zh": "复合宾语", "label_vi": "tan ngu kep", "word_indices": [4, 5, 6, 7, 8], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 2, "text": "Colonial exploitation systematically extracted resources from indigenous populations.",
+      "translation_zh": "殖民剥削系统性地从原住民那里掠夺资源。", "translation_vi": "Su boc lot thuc dan da co he thong khai thac tai nguyen tu cac dan toc ban dia.",
+      "words": [
+        {"word": "Colonial", "ipa": "/kəˈloʊniəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "exploitation", "ipa": "/ˌɛksplɔɪˈteɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "systematically", "ipa": "/ˌsɪstəˈmætɪkli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "extracted", "ipa": "/ɪkˈstræktɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "resources", "ipa": "/rɪˈsɔːrsɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "from", "ipa": "/frɒm/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "indigenous", "ipa": "/ɪnˈdɪdʒɪnəs/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "populations", "ipa": "/ˌpɒpjʊˈleɪʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate", "label_zh": "状语+谓语", "label_vi": "trang ngu + vi ngu", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [4], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6, 7], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 3, "text": "The Industrial Revolution dramatically reshaped global economic structures.",
+      "translation_zh": "工业革命极大地重塑了全球经济结构。", "translation_vi": "Cuoc Cach mang Cong nghiep da thay doi manh me cac cau truc kinh te toan cau.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "Industrial", "ipa": "/ɪnˈdʌstriəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "Revolution", "ipa": "/ˌrɛvəˈluːʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "dramatically", "ipa": "/drəˈmætɪkli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "reshaped", "ipa": "/riːˈʃeɪpt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "global", "ipa": "/ˈɡloʊbəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "economic", "ipa": "/ˌiːkəˈnɒmɪk/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "structures", "ipa": "/ˈstrʌktʃərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate", "label_zh": "状语+谓语", "label_vi": "trang ngu + vi ngu", "word_indices": [3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [5, 6, 7], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 4, "text": "Ancient civilizations developed sophisticated systems of governance and law.",
+      "translation_zh": "古代文明发展出了复杂的治理和法律体系。", "translation_vi": "Cac nen van minh co dai da phat trien cac he thong quan ly va phap luat tinh vi.",
+      "words": [
+        {"word": "Ancient", "ipa": "/ˈeɪnʃənt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "civilizations", "ipa": "/ˌsɪvɪlaɪˈzeɪʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "developed", "ipa": "/dɪˈvɛləpt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "sophisticated", "ipa": "/səˈfɪstɪkeɪtɪd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "systems", "ipa": "/ˈsɪstəmz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "governance", "ipa": "/ˈɡʌvərnəns/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "law", "ipa": "/lɔː/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [3, 4, 5, 6, 7, 8], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 5, "text": "Diplomatic alliances have historically shaped the outcome of major conflicts.",
+      "translation_zh": "外交联盟历来塑造了重大冲突的结果。", "translation_vi": "Cac lien minh ngoai giao tu truoc den nay da dinh hinh ket qua cua cac cuoc xung dot lon.",
+      "words": [
+        {"word": "Diplomatic", "ipa": "/ˌdɪpləˈmætɪk/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "alliances", "ipa": "/əˈlaɪənsɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "historically", "ipa": "/hɪˈstɒrɪkli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "shaped", "ipa": "/ʃeɪpt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "outcome", "ipa": "/ˈaʊtkʌm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "major", "ipa": "/ˈmeɪdʒər/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "conflicts", "ipa": "/ˈkɒnflɪkts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [5, 6, 7, 8, 9], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 6, "text": "Revolutionary movements often emerge from widespread social inequality.",
+      "translation_zh": "革命运动往往源于广泛的社会不平等。", "translation_vi": "Cac phong trao cach mang thuong nay sinh tu su bat binh dang xa hoi tran lan.",
+      "words": [
+        {"word": "Revolutionary", "ipa": "/ˌrɛvəˈluːʃənɛri/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "movements", "ipa": "/ˈmuːvmənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "often", "ipa": "/ˈɒfən/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "emerge", "ipa": "/ɪˈmɜːrdʒ/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "from", "ipa": "/frɒm/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "widespread", "ipa": "/ˈwaɪdsprɛd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "social", "ipa": "/ˈsoʊʃəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "inequality", "ipa": "/ˌɪnɪˈkwɒlɪti/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate", "label_zh": "状语+谓语", "label_vi": "trang ngu + vi ngu", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [4, 5, 6, 7], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 7, "text": "Archaeological discoveries continuously reshape our understanding of ancient societies.",
+      "translation_zh": "考古发现不断重塑我们对古代社会的理解。", "translation_vi": "Cac phat hien khao co lien tuc dinh hinh lai su hieu biet cua chung ta ve cac xa hoi co dai.",
+      "words": [
+        {"word": "Archaeological", "ipa": "/ˌɑːrkiəˈlɒdʒɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "discoveries", "ipa": "/dɪˈskʌvəriz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "continuously", "ipa": "/kənˈtɪnjuəsli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "reshape", "ipa": "/riːˈʃeɪp/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "our", "ipa": "/aʊər/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "understanding", "ipa": "/ˌʌndərˈstændɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "ancient", "ipa": "/ˈeɪnʃənt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "societies", "ipa": "/səˈsaɪɪtiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate", "label_zh": "状语+谓语", "label_vi": "trang ngu + vi ngu", "word_indices": [2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [4, 5, 6, 7, 8], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 8, "text": "The Cold War profoundly influenced geopolitical alignments for decades.",
+      "translation_zh": "冷战深刻影响了数十年的地缘政治格局。", "translation_vi": "Chien tranh Lanh da anh huong sau sac den cac lien ket dia chinh tri trong nhieu thap ky.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "Cold", "ipa": "/koʊld/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "War", "ipa": "/wɔːr/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "profoundly", "ipa": "/prəˈfaʊndli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "influenced", "ipa": "/ˈɪnfluənst/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "geopolitical", "ipa": "/ˌdʒiːoʊpəˈlɪtɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "alignments", "ipa": "/əˈlaɪnmənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "for", "ipa": "/fɔːr/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "decades", "ipa": "/ˈdɛkeɪdz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate", "label_zh": "状语+谓语", "label_vi": "trang ngu + vi ngu", "word_indices": [3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [5, 6], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [7, 8], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 9, "text": "Migration patterns have continuously transformed cultural landscapes throughout history.",
+      "translation_zh": "迁徙模式在整个历史进程中不断改变文化景观。", "translation_vi": "Cac mo hinh di cu da lien tuc thay doi canh quan van hoa trong suot lich su.",
+      "words": [
+        {"word": "Migration", "ipa": "/maɪˈɡreɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "patterns", "ipa": "/ˈpætərnz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "have", "ipa": "/hæv/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "continuously", "ipa": "/kənˈtɪnjuəsli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "transformed", "ipa": "/trænsˈfɔːrmd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "cultural", "ipa": "/ˈkʌltʃərəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "landscapes", "ipa": "/ˈlændskeɪps/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "throughout", "ipa": "/θruːˈaʊt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "history", "ipa": "/ˈhɪstəri/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [5, 6], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [7, 8], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 10, "text": "Totalitarian regimes systematically suppress dissent through propaganda and censorship.",
+      "translation_zh": "极权政权通过宣传和审查制度系统性地压制异见。", "translation_vi": "Cac che do doc tai co he thong dan ap bat dong chinh kien thong qua tuyen truyen va kiem duyet.",
+      "words": [
+        {"word": "Totalitarian", "ipa": "/toʊˌtælɪˈtɛriən/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "regimes", "ipa": "/reɪˈʒiːmz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "systematically", "ipa": "/ˌsɪstəˈmætɪkli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "suppress", "ipa": "/səˈprɛs/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "dissent", "ipa": "/dɪˈsɛnt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "through", "ipa": "/θruː/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "propaganda", "ipa": "/ˌprɒpəˈɡændə/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "censorship", "ipa": "/ˈsɛnsərʃɪp/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate + object", "label_zh": "状语+谓语+宾语", "label_vi": "trang ngu + vi ngu + tan ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [5, 6, 7, 8], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 11, "text": "The printing press accelerated the dissemination of knowledge across continents.",
+      "translation_zh": "印刷术加速了知识在各大洲的传播。", "translation_vi": "May in da thuc day su truyen ba kien thuc khap cac luc dia.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "printing", "ipa": "/ˈprɪntɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "press", "ipa": "/prɛs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "accelerated", "ipa": "/əkˈsɛləreɪtɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "dissemination", "ipa": "/dɪˌsɛmɪˈneɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "knowledge", "ipa": "/ˈnɒlɪdʒ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"},
+        {"word": "across", "ipa": "/əˈkrɒs/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "continents", "ipa": "/ˈkɒntɪnənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [3], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [4, 5, 6, 7], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [8, 9], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 12, "text": "Decolonization movements redefined national boundaries and political identities.",
+      "translation_zh": "非殖民化运动重新定义了国家边界和政治身份。", "translation_vi": "Cac phong trao phi thuc dan hoa da dinh nghia lai cac ranh gioi quoc gia va ban sac chinh tri.",
+      "words": [
+        {"word": "Decolonization", "ipa": "/diːˌkɒlənɪˈzeɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "movements", "ipa": "/ˈmuːvmənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "redefined", "ipa": "/ˌriːdɪˈfaɪnd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "national", "ipa": "/ˈnæʃənəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "boundaries", "ipa": "/ˈbaʊndəriz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "political", "ipa": "/pəˈlɪtɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "identities", "ipa": "/aɪˈdɛntɪtiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "compound object", "label_zh": "复合宾语", "label_vi": "tan ngu kep", "word_indices": [3, 4, 5, 6, 7], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 13, "text": "Historians critically examine primary sources to reconstruct past events accurately.",
+      "translation_zh": "历史学家批判性地审视原始资料以准确重建过去的事件。", "translation_vi": "Cac su gia xem xet phan bien cac nguon su lieu goc de tai tao chinh xac cac su kien trong qua khu.",
+      "words": [
+        {"word": "Historians", "ipa": "/hɪˈstɔːriənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "critically", "ipa": "/ˈkrɪtɪkli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "examine", "ipa": "/ɪɡˈzæmɪn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "primary", "ipa": "/ˈpraɪməri/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "sources", "ipa": "/ˈsɔːrsɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#00BCD4"},
+        {"word": "reconstruct", "ipa": "/ˌriːkənˈstrʌkt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 3, "group_color": "#F44336"},
+        {"word": "past", "ipa": "/pæst/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "events", "ipa": "/ɪˈvɛnts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 3, "group_color": "#2196F3"},
+        {"word": "accurately", "ipa": "/ˈækjʊrɪtli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 3, "group_color": "#4CAF50"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "adverb + predicate", "label_zh": "状语+谓语", "label_vi": "trang ngu + vi ngu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4], "color": "#2196F3"},
+        {"group": 3, "label_en": "purpose infinitive", "label_zh": "目的不定式", "label_vi": "dong tu nguyen mau chi muc dich", "word_indices": [5, 6, 7, 8, 9], "color": "#00BCD4"}
+      ]
+    },
+    {
+      "index": 14, "text": "Technological innovation has repeatedly disrupted established societal hierarchies.",
+      "translation_zh": "技术创新一再颠覆了既定的社会等级制度。", "translation_vi": "Doi moi cong nghe da nhieu lan pha vo cac tang bac xa hoi da duoc thiet lap.",
+      "words": [
+        {"word": "Technological", "ipa": "/ˌtɛknəˈlɒdʒɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "innovation", "ipa": "/ˌɪnəˈveɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "has", "ipa": "/hæz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "auxiliary", "role_zh": "助动词", "role_vi": "tro dong tu", "group": 1, "group_color": "#F44336"},
+        {"word": "repeatedly", "ipa": "/rɪˈpiːtɪdli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
+        {"word": "disrupted", "ipa": "/dɪsˈrʌptɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "established", "ipa": "/ɪˈstæblɪʃt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "societal", "ipa": "/səˈsaɪɪtəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "hierarchies", "ipa": "/ˈhaɪərɑːrkiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2, 3, 4], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [5, 6, 7], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 15, "text": "Trade routes facilitated unprecedented cultural exchange between distant civilizations.",
+      "translation_zh": "贸易路线促进了遥远文明之间前所未有的文化交流。", "translation_vi": "Cac tuyen duong thuong mai da thuc day su giao luu van hoa chua tung co giua cac nen van minh xa xoi.",
+      "words": [
+        {"word": "Trade", "ipa": "/treɪd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "routes", "ipa": "/ruːts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "facilitated", "ipa": "/fəˈsɪlɪteɪtɪd/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "unprecedented", "ipa": "/ʌnˈprɛsɪdɛntɪd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "cultural", "ipa": "/ˈkʌltʃərəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "exchange", "ipa": "/ɪksˈtʃeɪndʒ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "between", "ipa": "/bɪˈtwiːn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "distant", "ipa": "/ˈdɪstənt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "civilizations", "ipa": "/ˌsɪvɪlaɪˈzeɪʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [3, 4, 5], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [6, 7, 8], "color": "#607D8B"}
+      ]
+    }
+  ]
+}

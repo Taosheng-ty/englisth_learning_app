@@ -1,0 +1,311 @@
+{
+  "id": 124,
+  "title": "Philosophy",
+  "title_zh": "哲学",
+  "title_vi": "Triet hoc",
+  "difficulty": "B2",
+  "category": "academic",
+  "sentences": [
+    {
+      "index": 1, "text": "Existentialism emphasizes individual freedom and personal responsibility.",
+      "translation_zh": "存在主义强调个人自由和个人责任。", "translation_vi": "Chu nghia hien sinh nhan manh tu do ca nhan va trach nhiem ca nhan.",
+      "words": [
+        {"word": "Existentialism", "ipa": "/ˌɛɡzɪˈstɛnʃəlɪzəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "emphasizes", "ipa": "/ˈɛmfəsaɪzɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "individual", "ipa": "/ˌɪndɪˈvɪdʒuəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "freedom", "ipa": "/ˈfriːdəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "personal", "ipa": "/ˈpɜːrsənəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "responsibility", "ipa": "/rɪˌspɒnsɪˈbɪlɪti/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "compound object", "label_zh": "复合宾语", "label_vi": "tan ngu kep", "word_indices": [2, 3, 4, 5, 6], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 2, "text": "Moral relativism argues that ethical standards vary across cultures.",
+      "translation_zh": "道德相对主义认为伦理标准因文化而异。", "translation_vi": "Thuyet tuong doi dao duc cho rang cac tieu chuan dao duc khac nhau giua cac nen van hoa.",
+      "words": [
+        {"word": "Moral", "ipa": "/ˈmɒrəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "relativism", "ipa": "/ˈrɛlətɪvɪzəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "argues", "ipa": "/ˈɑːrɡjuːz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "ethical", "ipa": "/ˈɛθɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "standards", "ipa": "/ˈstændərdz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "vary", "ipa": "/ˈvɛri/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "across", "ipa": "/əˈkrɒs/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "cultures", "ipa": "/ˈkʌltʃərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "noun clause", "label_zh": "名词从句", "label_vi": "menh de danh tu", "word_indices": [3, 4, 5, 6, 7, 8], "color": "#E91E63"}
+      ]
+    },
+    {
+      "index": 3, "text": "The nature of consciousness remains a deeply contested philosophical question.",
+      "translation_zh": "意识的本质仍然是一个备受争议的哲学问题。", "translation_vi": "Ban chat cua y thuc van la mot cau hoi triet hoc gay tranh cai sau sac.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "nature", "ipa": "/ˈneɪtʃər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 0, "group_color": "#607D8B"},
+        {"word": "consciousness", "ipa": "/ˈkɒnʃəsnɪs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 0, "group_color": "#2196F3"},
+        {"word": "remains", "ipa": "/rɪˈmeɪnz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "a", "ipa": "/ə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "deeply", "ipa": "/ˈdiːpli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "contested", "ipa": "/kənˈtɛstɪd/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "philosophical", "ipa": "/ˌfɪləˈsɒfɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "question", "ipa": "/ˈkwɛstʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject phrase", "label_zh": "主语短语", "label_vi": "cum chu ngu", "word_indices": [0, 1, 2, 3], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [4], "color": "#F44336"},
+        {"group": 2, "label_en": "complement", "label_zh": "表语", "label_vi": "bo ngu", "word_indices": [5, 6, 7, 8, 9], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 4, "text": "Utilitarianism seeks to maximize overall happiness for the greatest number.",
+      "translation_zh": "功利主义旨在为最多数人最大化总体幸福。", "translation_vi": "Chu nghia thuc dung tim cach toi da hoa hanh phuc tong the cho so dong nhat.",
+      "words": [
+        {"word": "Utilitarianism", "ipa": "/juːˌtɪlɪˈtɛriənɪzəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "seeks", "ipa": "/siːks/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "to", "ipa": "/tuː/", "pos": "particle", "pos_zh": "小品词", "pos_vi": "tieu tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 1, "group_color": "#00BCD4"},
+        {"word": "maximize", "ipa": "/ˈmæksɪmaɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "overall", "ipa": "/ˌoʊvərˈɔːl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "happiness", "ipa": "/ˈhæpinɪs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "for", "ipa": "/fɔːr/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#3F51B5"},
+        {"word": "greatest", "ipa": "/ˈɡreɪtɪst/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "number", "ipa": "/ˈnʌmbər/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1, 2, 3], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [4, 5], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [6, 7, 8, 9], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 5, "text": "Determinism challenges the widely held assumption of genuine free will.",
+      "translation_zh": "决定论挑战了人们广泛持有的关于真正自由意志的假设。", "translation_vi": "Thuyet tat dinh thach thuc gia dinh duoc cong nhan rong rai ve y chi tu do that su.",
+      "words": [
+        {"word": "Determinism", "ipa": "/dɪˈtɜːrmɪnɪzəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "challenges", "ipa": "/ˈtʃælɪndʒɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "widely", "ipa": "/ˈwaɪdli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "held", "ipa": "/hɛld/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "assumption", "ipa": "/əˈsʌmpʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "genuine", "ipa": "/ˈdʒɛnjuɪn/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "free", "ipa": "/friː/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "will", "ipa": "/wɪl/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [2, 3, 4, 5, 6, 7, 8, 9], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 6, "text": "Epistemology investigates how we acquire and validate knowledge.",
+      "translation_zh": "认识论研究我们如何获取和验证知识。", "translation_vi": "Nhan thuc luan nghien cuu cach chung ta thu thap va xac nhan kien thuc.",
+      "words": [
+        {"word": "Epistemology", "ipa": "/ɪˌpɪstɪˈmɒlədʒi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "investigates", "ipa": "/ɪnˈvɛstɪɡeɪts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "how", "ipa": "/haʊ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "we", "ipa": "/wiː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "acquire", "ipa": "/əˈkwaɪər/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "validate", "ipa": "/ˈvælɪdeɪt/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "knowledge", "ipa": "/ˈnɒlɪdʒ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "noun clause", "label_zh": "名词从句", "label_vi": "menh de danh tu", "word_indices": [2, 3, 4, 5, 6, 7], "color": "#4CAF50"}
+      ]
+    },
+    {
+      "index": 7, "text": "Socratic questioning encourages deeper examination of underlying assumptions.",
+      "translation_zh": "苏格拉底式提问鼓励对潜在假设进行更深入的审视。", "translation_vi": "Phuong phap van dap Socrates khuyen khich xem xet sau hon cac gia dinh co ban.",
+      "words": [
+        {"word": "Socratic", "ipa": "/sɒˈkrætɪk/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "questioning", "ipa": "/ˈkwɛstʃənɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "encourages", "ipa": "/ɪnˈkʌrɪdʒɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "deeper", "ipa": "/ˈdiːpər/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "examination", "ipa": "/ɪɡˌzæmɪˈneɪʃən/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "underlying", "ipa": "/ˌʌndərˈlaɪɪŋ/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "assumptions", "ipa": "/əˈsʌmpʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [3, 4, 5, 6, 7], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 8, "text": "Phenomenology studies the structures of subjective conscious experience.",
+      "translation_zh": "现象学研究主观意识经验的结构。", "translation_vi": "Hien tuong hoc nghien cuu cac cau truc cua trai nghiem y thuc chu quan.",
+      "words": [
+        {"word": "Phenomenology", "ipa": "/fɪˌnɒmɪˈnɒlədʒi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "studies", "ipa": "/ˈstʌdiz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "structures", "ipa": "/ˈstrʌktʃərz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "subjective", "ipa": "/səbˈdʒɛktɪv/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "conscious", "ipa": "/ˈkɒnʃəs/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "experience", "ipa": "/ɪkˈspɪəriəns/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [2, 3, 4, 5, 6, 7], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 9, "text": "Logical fallacies undermine the validity of seemingly persuasive arguments.",
+      "translation_zh": "逻辑谬误破坏了看似有说服力的论点的有效性。", "translation_vi": "Nguy bien logic lam suy yeu tinh hop le cua cac luan diem co ve thuyet phuc.",
+      "words": [
+        {"word": "Logical", "ipa": "/ˈlɒdʒɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "fallacies", "ipa": "/ˈfæləsiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "undermine", "ipa": "/ˌʌndərˈmaɪn/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "the", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "validity", "ipa": "/vəˈlɪdɪti/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "of", "ipa": "/ʌv/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "seemingly", "ipa": "/ˈsiːmɪŋli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "persuasive", "ipa": "/pərˈsweɪsɪv/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "arguments", "ipa": "/ˈɑːrɡjʊmənts/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [2], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [3, 4, 5, 6, 7, 8], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 10, "text": "Metaphysics explores fundamental questions about existence and reality.",
+      "translation_zh": "形而上学探讨关于存在和现实的根本问题。", "translation_vi": "Sieu hinh hoc kham pha cac cau hoi can ban ve su ton tai va thuc te.",
+      "words": [
+        {"word": "Metaphysics", "ipa": "/ˌmɛtəˈfɪzɪks/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "explores", "ipa": "/ɪkˈsplɔːrz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "fundamental", "ipa": "/ˌfʌndəˈmɛntəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "questions", "ipa": "/ˈkwɛstʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "about", "ipa": "/əˈbaʊt/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "existence", "ipa": "/ɪɡˈzɪstəns/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "reality", "ipa": "/riˈælɪti/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "object phrase", "label_zh": "宾语短语", "label_vi": "cum tan ngu", "word_indices": [2, 3, 4, 5, 6, 7], "color": "#2196F3"}
+      ]
+    },
+    {
+      "index": 11, "text": "Pragmatism evaluates ideas primarily by their practical consequences.",
+      "translation_zh": "实用主义主要通过思想的实际后果来评价它们。", "translation_vi": "Chu nghia thuc dung danh gia cac y tuong chu yeu dua tren hau qua thuc te cua chung.",
+      "words": [
+        {"word": "Pragmatism", "ipa": "/ˈpræɡmətɪzəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "evaluates", "ipa": "/ɪˈvæljueɪts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "ideas", "ipa": "/aɪˈdɪəz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 1, "group_color": "#2196F3"},
+        {"word": "primarily", "ipa": "/praɪˈmɛrɪli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "by", "ipa": "/baɪ/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#607D8B"},
+        {"word": "their", "ipa": "/ðɛr/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "practical", "ipa": "/ˈpræktɪkəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "consequences", "ipa": "/ˈkɒnsɪkwɛnsɪz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate + object", "label_zh": "谓语+宾语", "label_vi": "vi ngu + tan ngu", "word_indices": [1, 2], "color": "#F44336"},
+        {"group": 2, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [3, 4, 5, 6, 7], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 12, "text": "Nihilism rejects all inherent meaning and purpose in human existence.",
+      "translation_zh": "虚无主义否定人类存在中的所有内在意义和目的。", "translation_vi": "Chu nghia hu vo bac bo moi y nghia va muc dich von co trong su ton tai cua con nguoi.",
+      "words": [
+        {"word": "Nihilism", "ipa": "/ˈnaɪɪlɪzəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "rejects", "ipa": "/rɪˈdʒɛkts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "all", "ipa": "/ɔːl/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#3F51B5"},
+        {"word": "inherent", "ipa": "/ɪnˈhɪərənt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "meaning", "ipa": "/ˈmiːnɪŋ/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "purpose", "ipa": "/ˈpɜːrpəs/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "in", "ipa": "/ɪn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "human", "ipa": "/ˈhjuːmən/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 3, "group_color": "#FF9800"},
+        {"word": "existence", "ipa": "/ɪɡˈzɪstəns/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "compound object", "label_zh": "复合宾语", "label_vi": "tan ngu kep", "word_indices": [2, 3, 4, 5, 6], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [7, 8, 9], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 13, "text": "The social contract establishes mutual obligations between citizens and government.",
+      "translation_zh": "社会契约在公民和政府之间建立了相互义务。", "translation_vi": "Khoan uoc xa hoi thiet lap cac nghia vu chung giua cong dan va chinh phu.",
+      "words": [
+        {"word": "The", "ipa": "/ðə/", "pos": "determiner", "pos_zh": "限定词", "pos_vi": "han dinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#3F51B5"},
+        {"word": "social", "ipa": "/ˈsoʊʃəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 0, "group_color": "#FF9800"},
+        {"word": "contract", "ipa": "/ˈkɒntrækt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "establishes", "ipa": "/ɪˈstæblɪʃɪz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "mutual", "ipa": "/ˈmjuːtʃuəl/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "obligations", "ipa": "/ˌɒblɪˈɡeɪʃənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "between", "ipa": "/bɪˈtwiːn/", "pos": "preposition", "pos_zh": "介词", "pos_vi": "gioi tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#607D8B"},
+        {"word": "citizens", "ipa": "/ˈsɪtɪzənz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 3, "group_color": "#E91E63"},
+        {"word": "government", "ipa": "/ˈɡʌvərnmənt/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object of preposition", "role_zh": "介词宾语", "role_vi": "tan ngu gioi tu", "group": 3, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0, 1, 2], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [3], "color": "#F44336"},
+        {"group": 2, "label_en": "object", "label_zh": "宾语", "label_vi": "tan ngu", "word_indices": [4, 5], "color": "#2196F3"},
+        {"group": 3, "label_en": "prepositional phrase", "label_zh": "介词短语", "label_vi": "cum gioi tu", "word_indices": [6, 7, 8, 9], "color": "#607D8B"}
+      ]
+    },
+    {
+      "index": 14, "text": "Aesthetics examines what constitutes beauty and artistic value.",
+      "translation_zh": "美学研究什么构成美和艺术价值。", "translation_vi": "My hoc xem xet dieu gi tao nen cai dep va gia tri nghe thuat.",
+      "words": [
+        {"word": "Aesthetics", "ipa": "/ɛsˈθɛtɪks/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "examines", "ipa": "/ɪɡˈzæmɪnz/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "what", "ipa": "/wɒt/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#9C27B0"},
+        {"word": "constitutes", "ipa": "/ˈkɒnstɪtjuːts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "beauty", "ipa": "/ˈbjuːti/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "artistic", "ipa": "/ɑːrˈtɪstɪk/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "value", "ipa": "/ˈvæljuː/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "object", "role_zh": "宾语", "role_vi": "tan ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "noun clause", "label_zh": "名词从句", "label_vi": "menh de danh tu", "word_indices": [2, 3, 4, 5, 6, 7], "color": "#9C27B0"}
+      ]
+    },
+    {
+      "index": 15, "text": "Dualism posits that mind and body are fundamentally separate entities.",
+      "translation_zh": "二元论认为心灵和身体是根本上不同的实体。", "translation_vi": "Thuyet nhi nguyen cho rang tam tri va co the la nhung thuc the tach biet ve co ban.",
+      "words": [
+        {"word": "Dualism", "ipa": "/ˈdjuːəlɪzəm/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 0, "group_color": "#2196F3"},
+        {"word": "posits", "ipa": "/ˈpɒzɪts/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
+        {"word": "that", "ipa": "/ðæt/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "mind", "ipa": "/maɪnd/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "and", "ipa": "/ænd/", "pos": "conjunction", "pos_zh": "连词", "pos_vi": "lien tu", "role": "connector", "role_zh": "连接语", "role_vi": "tu noi", "group": 2, "group_color": "#E91E63"},
+        {"word": "body", "ipa": "/ˈbɒdi/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 2, "group_color": "#2196F3"},
+        {"word": "are", "ipa": "/ɑːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 2, "group_color": "#F44336"},
+        {"word": "fundamentally", "ipa": "/ˌfʌndəˈmɛntəli/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 2, "group_color": "#4CAF50"},
+        {"word": "separate", "ipa": "/ˈsɛpərɪt/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tinh tu", "role": "attributive", "role_zh": "定语", "role_vi": "dinh ngu", "group": 2, "group_color": "#FF9800"},
+        {"word": "entities", "ipa": "/ˈɛntɪtiz/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh tu", "role": "complement", "role_zh": "表语", "role_vi": "bo ngu", "group": 2, "group_color": "#2196F3"}
+      ],
+      "constituents": [
+        {"group": 0, "label_en": "subject", "label_zh": "主语", "label_vi": "chu ngu", "word_indices": [0], "color": "#2196F3"},
+        {"group": 1, "label_en": "predicate", "label_zh": "谓语", "label_vi": "vi ngu", "word_indices": [1], "color": "#F44336"},
+        {"group": 2, "label_en": "noun clause", "label_zh": "名词从句", "label_vi": "menh de danh tu", "word_indices": [2, 3, 4, 5, 6, 7, 8, 9], "color": "#E91E63"}
+      ]
+    }
+  ]
+}
