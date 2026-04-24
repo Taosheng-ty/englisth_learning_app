@@ -147,18 +147,17 @@ class TestEmptyVocabulary:
 
 class TestVocabularyAfterPractice:
     def test_vocab_populated_after_dictation(self):
-        """Submit a dictation for sentence 1-01 ('Hello, how are you?')
+        """Submit a dictation for sentence 1-01 ('Hi Min, you look gorgeous.')
         and verify all words appear in the vocabulary list."""
         client, db_path = _fresh_authed_client()
-        # Sentence 1-01: "Hello, how are you?"
+        # Sentence 1-01: "Hi Min, you look gorgeous."
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         resp = client.get("/api/vocabulary")
         assert resp.status_code == 200
         data = resp.json()
         vocab_words = {entry["word"] for entry in data}
-        # The lesson stores: Hello, how, are, you  (lowered in code)
-        for expected in ["hello", "how", "are", "you"]:
+        for expected in ["hi", "min", "you", "look", "gorgeous"]:
             assert expected in vocab_words, f"'{expected}' not found in vocabulary"
         db_path.unlink()
 
@@ -171,7 +170,7 @@ class TestWordFields:
     def test_each_entry_has_required_fields(self):
         client, db_path = _fresh_authed_client()
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         resp = client.get("/api/vocabulary")
         data = resp.json()
         required_fields = {"word", "ipa", "pos", "seen_count", "correct_count", "status"}
@@ -355,9 +354,9 @@ class TestSeenCountIncrements:
         client, db_path = _fresh_authed_client()
         # Submit the same sentence twice
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
 
         resp = client.get("/api/vocabulary")
         data = resp.json()
@@ -378,7 +377,7 @@ class TestCorrectCount:
         client, db_path = _fresh_authed_client()
         # Perfect submission
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         resp = client.get("/api/vocabulary")
         data = resp.json()
         for entry in data:
@@ -406,7 +405,7 @@ class TestCorrectCount:
         client, db_path = _fresh_authed_client()
         # Correct
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         # Wrong
         client.post("/api/practice/submit",
                      json={"sentence_id": "1-01", "typed_text": "xxxx yyyy zzzz wwww"})
@@ -452,7 +451,7 @@ class TestFlashcardFields:
         client, db_path = _fresh_authed_client()
         # Practice sentence 1-01 so flashcards have data
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         resp = client.get("/api/vocabulary/flashcards")
         data = resp.json()
         required = {"word", "ipa", "pos", "example_sentence", "translation_zh", "translation_vi"}
@@ -474,7 +473,7 @@ class TestFlashcardWeaknessOrdering:
         client, db_path = _fresh_authed_client()
         # Correct submission for sentence 1-01
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         # Wrong submission for sentence 1-06 ("Good morning!")
         client.post("/api/practice/submit",
                      json={"sentence_id": "1-06", "typed_text": "xxxx yyyy"})
@@ -567,7 +566,7 @@ class TestMultipleUsersIndependence:
         # --- Alice ---
         _register_and_login(client, "alice", "pass1")
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         alice_vocab = client.get("/api/vocabulary").json()
         alice_words = {e["word"] for e in alice_vocab}
         client.post("/api/auth/logout")
@@ -582,12 +581,12 @@ class TestMultipleUsersIndependence:
         client.post("/api/auth/logout")
 
         # Alice should have lesson-1 words, not lesson-2 words
-        assert "hello" in alice_words
+        assert "gorgeous" in alice_words
         assert "wake" not in alice_words
 
         # Bob should have lesson-2 words, not lesson-1 exclusive words
         assert "wake" in bob_words
-        assert "hello" not in bob_words
+        assert "gorgeous" not in bob_words
         db_path.unlink()
 
     def test_shared_words_tracked_independently(self):
@@ -599,7 +598,7 @@ class TestMultipleUsersIndependence:
         # Alice practices 1-01 correctly
         _register_and_login(client, "alice", "pass1")
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         alice_vocab = {e["word"]: e for e in client.get("/api/vocabulary").json()}
         client.post("/api/auth/logout")
 
@@ -608,7 +607,7 @@ class TestMultipleUsersIndependence:
         client.post("/api/practice/submit",
                      json={"sentence_id": "1-01", "typed_text": "xxxx yyyy zzzz wwww"})
         client.post("/api/practice/submit",
-                     json={"sentence_id": "1-01", "typed_text": "Hello, how are you?"})
+                     json={"sentence_id": "1-01", "typed_text": "Hi Min, you look gorgeous."})
         bob_vocab = {e["word"]: e for e in client.get("/api/vocabulary").json()}
         client.post("/api/auth/logout")
 

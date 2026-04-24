@@ -572,10 +572,10 @@ class TestCompletedCount:
         assert lesson_1_before["completed_count"] == 0
 
         # Submit a perfect dictation for sentence 1 of lesson 1
-        # The sentence text is "Hello, how are you?"
+        # The sentence text is "Hi Min, you look gorgeous."
         resp = client.post("/api/practice/submit", json={
             "sentence_id": "1-01",
-            "typed_text": "Hello, how are you?"
+            "typed_text": "Hi Min, you look gorgeous."
         })
         assert resp.status_code == 200
         score = resp.json()["score"]
@@ -592,11 +592,11 @@ class TestCompletedCount:
         # Practice the same sentence twice
         client.post("/api/practice/submit", json={
             "sentence_id": "1-01",
-            "typed_text": "Hello, how are you?"
+            "typed_text": "Hi Min, you look gorgeous."
         })
         client.post("/api/practice/submit", json={
             "sentence_id": "1-01",
-            "typed_text": "Hello, how are you?"
+            "typed_text": "Hi Min, you look gorgeous."
         })
 
         data = client.get("/api/lessons").json()
@@ -608,7 +608,7 @@ class TestCompletedCount:
         # Complete 2 different sentences in lesson 1
         client.post("/api/practice/submit", json={
             "sentence_id": "1-01",
-            "typed_text": "Hello, how are you?"
+            "typed_text": "Hi Min, you look gorgeous."
         })
         client.post("/api/practice/submit", json={
             "sentence_id": "1-02",

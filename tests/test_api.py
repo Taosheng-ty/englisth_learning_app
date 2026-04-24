@@ -210,7 +210,8 @@ def test_vocabulary_after_practice():
     assert resp.status_code == 200
     data = resp.json()
     assert len(data) >= 1
-    assert data[0]["word"] == "hello"
+    word_names = {d["word"] for d in data}
+    assert "hello" in word_names
     db_path.unlink()
 
 

@@ -83,7 +83,7 @@ def _seed(db_path: Path):
     )
 
     sentences = [
-        ("1-01", 1, 1, "Hello, how are you?"),
+        ("1-01", 1, 1, "Hi Min, you look gorgeous."),
         ("1-02", 1, 2, "I am fine, thank you."),
         ("1-03", 1, 3, "Nice to meet you."),
         ("1-04", 1, 4, "What is your name?"),
@@ -151,7 +151,7 @@ class TestPerfectDictation:
         _register_and_login(client)
         resp = client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "Hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "Hi Min you look gorgeous"},
         )
         data = resp.json()
         assert resp.status_code == 200
@@ -168,10 +168,10 @@ class TestCaseInsensitive:
     def test_lowercase_still_perfect(self, env):
         client, _ = env
         _register_and_login(client)
-        # Original text: "Hello, how are you?" – submit all-lowercase, no punctuation
+        # Original text: "Hi Min, you look gorgeous." – submit all-lowercase, no punctuation
         resp = client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         data = resp.json()
         assert data["score"] == 1.0
@@ -181,7 +181,7 @@ class TestCaseInsensitive:
         _register_and_login(client)
         resp = client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "HELLO HOW ARE YOU"},
+            json={"sentence_id": "1-01", "typed_text": "HI MIN YOU LOOK GORGEOUS"},
         )
         data = resp.json()
         assert data["score"] == 1.0
@@ -222,17 +222,17 @@ class TestOneTypo:
     def test_close_match_detected(self, env):
         client, _ = env
         _register_and_login(client)
-        # "Hello, how are you?" -> submit "helo how are you" (helo: lev distance 1)
+        # "Hi Min, you look gorgeous." -> submit "hi min you lok gorgeous" (lok: lev distance 1)
         resp = client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "helo how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you lok gorgeous"},
         )
         data = resp.json()
         assert data["score"] > 0.8
         close = [d for d in data["diffs"] if d["status"] == "close"]
         assert len(close) >= 1
-        assert close[0]["word"] == "helo"
-        assert close[0]["expected"] == "hello"
+        assert close[0]["word"] == "lok"
+        assert close[0]["expected"] == "look"
 
     def test_two_char_typo_still_close(self, env):
         client, _ = env
@@ -256,16 +256,16 @@ class TestMissingWord:
     def test_missing_last_word(self, env):
         client, _ = env
         _register_and_login(client)
-        # Original: "Hello, how are you?" -> omit "you"
+        # Original: "Hi Min, you look gorgeous." -> omit "gorgeous"
         resp = client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look"},
         )
         data = resp.json()
         assert data["score"] < 1.0
         missing = [d for d in data["diffs"] if d["status"] == "missing"]
         assert len(missing) >= 1
-        assert any(m["word"] == "you" for m in missing)
+        assert any(m["word"] == "gorgeous" for m in missing)
 
     def test_missing_middle_word(self, env):
         client, _ = env
@@ -289,10 +289,10 @@ class TestExtraWord:
     def test_extra_word_at_end(self, env):
         client, _ = env
         _register_and_login(client)
-        # Original: "Hello, how are you?" -> add "today"
+        # Original: "Hi Min, you look gorgeous." -> add "today"
         resp = client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you today"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous today"},
         )
         data = resp.json()
         extra = [d for d in data["diffs"] if d["status"] == "extra"]
@@ -320,7 +320,7 @@ class TestCompletelyWrong:
     def test_totally_different_text(self, env):
         client, _ = env
         _register_and_login(client)
-        # Original: "Hello, how are you?"
+        # Original: "Hi Min, you look gorgeous."
         resp = client.post(
             "/api/practice/submit",
             json={"sentence_id": "1-01", "typed_text": "elephant tornado pizza submarine"},
@@ -369,7 +369,7 @@ class TestXPThresholds:
         _register_and_login(client)
         resp = client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         data = resp.json()
         assert data["score"] >= 0.95
@@ -417,7 +417,7 @@ class TestXPAccumulation:
         # First submission – perfect
         resp = client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         xp1 = resp.json()["xp_earned"]
 
@@ -441,7 +441,7 @@ class TestXPAccumulation:
         # Perfect first
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         stats_before = client.get("/api/stats").json()
 
@@ -468,7 +468,7 @@ class TestStreakTracking:
 
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
 
         stats_after = client.get("/api/stats").json()
@@ -480,7 +480,7 @@ class TestStreakTracking:
 
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         client.post(
             "/api/practice/submit",
@@ -556,7 +556,7 @@ class TestProgressTracking:
 
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         stats1 = client.get("/api/stats").json()
         assert stats1["total_sentences_practiced"] == 1
@@ -564,7 +564,7 @@ class TestProgressTracking:
         # Same sentence again – should still be counted as 1 unique
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         stats1b = client.get("/api/stats").json()
         assert stats1b["total_sentences_practiced"] == 1
@@ -604,7 +604,7 @@ class TestSentencesToday:
 
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         stats1 = client.get("/api/stats").json()
         assert stats1["sentences_today"] == 1
@@ -622,11 +622,11 @@ class TestSentencesToday:
 
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         stats = client.get("/api/stats").json()
         assert stats["sentences_today"] == 1
@@ -644,7 +644,7 @@ class TestSpacedRepetition:
         # First correct submission -> bucket starts at 1, correct => new_bucket = 2
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
 
         due = client.get("/api/review/due").json()
@@ -666,7 +666,7 @@ class TestSpacedRepetition:
         # First correct to get to bucket 2
         client.post(
             "/api/practice/submit",
-            json={"sentence_id": "1-01", "typed_text": "hello how are you"},
+            json={"sentence_id": "1-01", "typed_text": "hi min you look gorgeous"},
         )
         # Second incorrect (score < 0.7) to reset to bucket 1
         client.post(

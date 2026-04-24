@@ -1,3 +1,4 @@
+import hashlib
 import io
 import sqlite3
 from datetime import date
@@ -5,7 +6,7 @@ from pathlib import Path
 import edge_tts
 from fastapi import FastAPI, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import StreamingResponse
+from fastapi.responses import FileResponse, StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from starlette.middleware.base import BaseHTTPMiddleware
 from app.config import DB_PATH
@@ -81,16 +82,26 @@ def create_app(db_path: Path | None = None) -> FastAPI:
         conn.close()
         return {"message": "Settings updated"}
 
+    tts_cache_dir = db_path.parent / "tts_cache"
+    tts_cache_dir.mkdir(exist_ok=True)
+
     @app.get("/api/tts")
     async def tts(text: str = Query(...), rate: str = Query(default="+0%")):
+        cache_key = hashlib.md5(f"{text}|{rate}".encode()).hexdigest()
+        cache_file = tts_cache_dir / f"{cache_key}.mp3"
+
+        if cache_file.exists():
+            return FileResponse(cache_file, media_type="audio/mpeg", headers={"Cache-Control": "public, max-age=604800"})
+
         voice = "en-US-AriaNeural"
         communicate = edge_tts.Communicate(text, voice, rate=rate)
         buf = io.BytesIO()
         async for chunk in communicate.stream():
             if chunk["type"] == "audio":
                 buf.write(chunk["data"])
+        cache_file.write_bytes(buf.getvalue())
         buf.seek(0)
-        return StreamingResponse(buf, media_type="audio/mpeg")
+        return StreamingResponse(buf, media_type="audio/mpeg", headers={"Cache-Control": "public, max-age=604800"})
 
     static_dir = Path(__file__).parent / "static"
     if static_dir.exists():

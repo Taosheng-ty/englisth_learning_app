@@ -535,7 +535,7 @@ class TestFullIntegrationFlow:
         vocab = resp.json()
         assert len(vocab) >= 1, "Vocabulary should have at least 1 word after practice"
         word_names = [v["word"] for v in vocab]
-        assert "hello" in word_names, "Expected 'hello' in vocabulary"
+        assert any(w in word_names for w in ["hello"]), "Expected words from sentence 1-01 in vocabulary"
         for v in vocab:
             assert "ipa" in v
             assert "pos" in v
