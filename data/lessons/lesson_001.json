@@ -8,18 +8,19 @@
   "sentences": [
     {
       "index": 1,
-      "text": "Hello, how are you?",
-      "translation_zh": "你好，你怎么样？",
-      "translation_vi": "Xin chao, ban co khoe khong?",
+      "text": "Hi Min, you look gorgeous.",
+      "translation_zh": "嗨Min，你看起来真美。",
+      "translation_vi": "Chào Min, bạn trông thật lộng lẫy.",
       "words": [
-        {"word": "Hello", "ipa": "/həˈloʊ/", "pos": "interjection", "pos_zh": "感叹词", "pos_vi": "than tu", "role": "greeting", "role_zh": "问候语", "role_vi": "loi chao", "group": 0, "group_color": "#795548"},
-        {"word": "how", "ipa": "/haʊ/", "pos": "adverb", "pos_zh": "副词", "pos_vi": "trang tu", "role": "adverbial", "role_zh": "状语", "role_vi": "trang ngu", "group": 1, "group_color": "#4CAF50"},
-        {"word": "are", "ipa": "/ɑːr/", "pos": "verb", "pos_zh": "动词", "pos_vi": "dong tu", "role": "predicate", "role_zh": "谓语", "role_vi": "vi ngu", "group": 1, "group_color": "#F44336"},
-        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "dai tu", "role": "subject", "role_zh": "主语", "role_vi": "chu ngu", "group": 1, "group_color": "#9C27B0"}
+        {"word": "Hi", "ipa": "/haɪ/", "pos": "interjection", "pos_zh": "感叹词", "pos_vi": "thán từ", "role": "greeting", "role_zh": "问候语", "role_vi": "lời chào", "group": 0, "group_color": "#795548"},
+        {"word": "Min", "ipa": "/mɪn/", "pos": "noun", "pos_zh": "名词", "pos_vi": "danh từ", "role": "vocative", "role_zh": "称呼语", "role_vi": "hô ngữ", "group": 0, "group_color": "#2196F3"},
+        {"word": "you", "ipa": "/juː/", "pos": "pronoun", "pos_zh": "代词", "pos_vi": "đại từ", "role": "subject", "role_zh": "主语", "role_vi": "chủ ngữ", "group": 1, "group_color": "#9C27B0"},
+        {"word": "look", "ipa": "/lʊk/", "pos": "verb", "pos_zh": "动词", "pos_vi": "động từ", "role": "predicate", "role_zh": "谓语", "role_vi": "vị ngữ", "group": 1, "group_color": "#F44336"},
+        {"word": "gorgeous", "ipa": "/ˈɡɔːrdʒəs/", "pos": "adjective", "pos_zh": "形容词", "pos_vi": "tính từ", "role": "complement", "role_zh": "表语", "role_vi": "bổ ngữ", "group": 1, "group_color": "#FF9800"}
       ],
       "constituents": [
-        {"group": 0, "label_en": "greeting", "label_zh": "问候语", "label_vi": "loi chao", "word_indices": [0], "color": "#795548"},
-        {"group": 1, "label_en": "question", "label_zh": "疑问句", "label_vi": "cau hoi", "word_indices": [1, 2, 3], "color": "#4CAF50"}
+        {"group": 0, "label_en": "greeting + name", "label_zh": "问候+称呼", "label_vi": "lời chào + tên", "word_indices": [0, 1], "color": "#795548"},
+        {"group": 1, "label_en": "compliment clause", "label_zh": "赞美从句", "label_vi": "mệnh đề khen ngợi", "word_indices": [2, 3, 4], "color": "#4CAF50"}
       ]
     },
     {
